@@ -13,7 +13,7 @@ draft: false
 
 Ensina como portas lógicas podem desenvolver matemática e outros circúitos mais complexos e dinâmicos.
 
-É uma das poucas matérias que exigem material, existe um custo inicial (tentem pegar o material com quem já cursou). Basicamente é necessária uma [Placa de Ensaio (breadboard)](https://pt.wikipedia.org/wiki/Placa_de_Ensaio) (grande) e algumas portas lógicas (custam menos de 1 real cada), pegue umas 3 de cada, dando enfoque em [NAND - not and -](https://pt.wikipedia.org/wiki/Porta_NAND) (da pra representar as outras portas lógicas só com combinação de NAND).
+É uma das poucas matérias que exigem material, existe um custo inicial (tentem pegar o material com quem já cursou). Basicamente é necessária uma [Placa de Ensaio (breadboard)](https://pt.wikipedia.org/wiki/Placa_de_Ensaio) (grande) e algumas portas lógicas (custam menos de 30 centavos cada), pegue de 3 a 5 de cada.
 
 Quem não conseguir pegar o material com alunos que já fizeram, é possível encontrar no centro, embora breadboards do tamanho necessário cheguem a custar algumas dezenas de reais. Alguns que se previnem e compram com meses de antecedência encomendam tudo da China por muito barato.
 

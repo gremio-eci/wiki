@@ -15,7 +15,7 @@ O site explica bastante do conteúdo e sempre contém a apostila utilizada.
 
 É muito importante imprimir a apostila e todos os pré-relatórios e relatórios. Pois toda aula é preciso entregar na entrada o pré-relatório, que consiste de umas simples perguntas sobre o experimento, todas estão respondidas na apostila (ele serve para te obrigar a ler a apostila). E no fim da aula, após os experimentos é preciso entregar o relatório.
 
-É uma matéria que não da exatamente trabalho, só tem uma vez na semana, mas te reprova se você faltar mais de 3 vezes, portanto a coisa mais importante é sempre ir e entregar o que foi pedido. A prova não é unificada, mas é igual para todos, é um dos experimentos feitos ao longo do período, você precisa lembrar dele e replicar os passos utilizados.
+É uma matéria que não da exatamente trabalho, só tem uma vez na semana, mas te reprova se você faltar mais de 3 vezes, portanto a coisa mais importante é sempre ir e entregar o que foi pedido. A prova não é unificada, mas é no mesmo padrão (as provas tem experimentos variados, mas é um número limitado) para todos. É um dos experimentos feitos ao longo do período, você precisa lembrar dele e replicar os passos utilizados.
 
 Possui bastante fórmulas chatas, que serão usadas até Fisexp 4, são fórmulas de propagação de erro e outras nesse sentido.
 
