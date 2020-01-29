@@ -26,7 +26,7 @@ If you have writing rights to this repository run
 
 `./publish.sh`
 
-If not for it, make a pull request with the edited markdown (at `content/`) and an admin will publish it for you
+If not, make a pull request with the edited markdown (at `content/`) and an admin will publish it for you
 
 # License
 
