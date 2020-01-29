@@ -15,4 +15,4 @@ Ensina como portas lógicas podem desenvolver matemática e outros circúitos ma
 
 É continuada em "Sistemas Digitais - Braffman" e "Arquitetura de Computador - Braffman". É toda uma sequência excelente, mas que dará bastante trabalho. Levam do conceito de portas lógicas até o desenhar de um processador inteiro no papel.
 
-Essa aula mesma aula já foi dada pros pais de alguns calouros (não é piada).
+Essa mesma aula já foi dada pros pais de alguns calouros (não é piada).

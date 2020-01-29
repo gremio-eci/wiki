@@ -30,7 +30,7 @@ Site oficial do SIGA, existem também aplicativos oficiais para telefones
 
 - [Grade Oficial](http://www.poli.ufrj.br/arquivos/grades-graduacao/grade-computacao.pdf)
 
-- [Grade Curricular Detalhada](https://siga.ufrj.br/sira/gradeHoraria/A46B41C8-92A4-F79C-7383-BE627D84214E)
+- [Grade Curricular Detalhada](https://siga.ufrj.br/sira/repositorio-curriculo/61AD45DD-92A4-F79B-3D87-7A444052DF9B)
 
 Possui bastante informação sobre equivalências e distribuição geral dos créditos, e da uma ajuda mínima na questão de optativas e humanas.
 

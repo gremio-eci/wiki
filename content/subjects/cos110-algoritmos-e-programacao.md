@@ -7,7 +7,6 @@ draft: false
 - Código: COS110
 - Créditos: 5
 - Professor: [Esperança](/wiki{{< ref "/teachers/esperanca.md" >}})
-- Site da matéria: 
 - Em casos de transferência é comum obter equivalência dessa matéria com "Computação 1", porém não costuma equivaler se feita já em ECI.
 
 É uma matéria bastante introdutória, apresenta o conceito de linguagens de programação e tenta criar uma normalidade com os termos e a usabilidade. Geralmente ensina python.

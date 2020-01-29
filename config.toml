@@ -21,6 +21,6 @@ GoogleAnalytics = 'UA-URCODE'
 
 sectionPagesMenu = "main"
 [[ menu.main ]]
-   name="Git"
+   name="Code"
    url="https://github.com/gremio-eci"
    weight = 300
