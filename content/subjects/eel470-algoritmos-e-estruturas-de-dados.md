@@ -6,13 +6,13 @@ draft: false
 
 - Código: EEL470
 - Créditos: 5
-- Professor: [Heraldo]({{< ref "/teachers/heraldo.md" >}})
+- Professor: [Heraldo](/wiki/{{< ref "/teachers/heraldo.md" >}})
 - Site da matéria: http://www.del.ufrj.br/~heraldo/eel470.html
-- Equivalente: **[COS213 - Estruturas de Dados]({{< ref "/subjects/cos213-estrutura-de-dados.md" >}}) - [Edilberto Strauss]({{< ref "/teachers/strauss.md" >}})**
+- Equivalente: **[COS213 - Estruturas de Dados](/wiki/{{< ref "/subjects/cos213-estrutura-de-dados.md" >}}) - [Edilberto Strauss](/wiki/{{< ref "/teachers/strauss.md" >}})**
 
 É uma matéria que nem sempre abre, portanto as pessoas tendem pra equivalente. 
 
-Essa matéria não tem sido dada há um bom tempo, no geral é necessário esperar pela do [Strauss]({{< ref "/teachers/strauss.md" >}})
+Essa matéria não tem sido dada há um bom tempo, no geral é necessário esperar pela do [Strauss](/wiki/{{< ref "/teachers/strauss.md" >}})
 
 # Conteúdo
 

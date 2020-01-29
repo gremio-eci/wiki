@@ -12,4 +12,4 @@ Diretor de Ensino e Extensão
 
 # Matérias
 
-- [COS213 - Estruturas de Dados (5 créditos)]({{< ref "/subjects/cos213-estruturas-de-dados.md" >}})
+- [COS213 - Estruturas de Dados (5 créditos)](/wiki/{{< ref "/subjects/cos213-estruturas-de-dados.md" >}})

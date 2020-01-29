@@ -6,11 +6,11 @@ draft: false
 
 - Código: COS213
 - Créditos: 5
-- Professor: [Strauss]({{< ref "/teachers/strauss.md" >}})
+- Professor: [Strauss](/wiki/{{< ref "/teachers/strauss.md" >}})
 - Site da matéria: http://www.del.ufrj.br/~heraldo/eel470.html
-- Equivalente: **[EEL470 - Algoritmos e Estruturas de Dados]({{< ref "/subjects/eel470-algoritmos-e-estruturas-de-dados.md" >}}) - [Heraldo]({{< ref "/teachers/heraldo.md" >}})**
+- Equivalente: **[EEL470 - Algoritmos e Estruturas de Dados](/wiki/{{< ref "/subjects/eel470-algoritmos-e-estruturas-de-dados.md" >}}) - [Heraldo](/wiki/{{< ref "/teachers/heraldo.md" >}})**
 
-Essa matéria não tem sido dada há um bom tempo, no geral é necessário esperar pela do [Strauss]({{< ref "/teachers/strauss.md" >}})
+Essa matéria não tem sido dada há um bom tempo, no geral é necessário esperar pela do [Strauss](/wiki/{{< ref "/teachers/strauss.md" >}})
 
 # Conteúdo
 
