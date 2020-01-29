@@ -30,4 +30,4 @@ If not for it, make a pull request with the edited markdown (at `content/`) and 
 
 # License
 
-[AGPL-3](LICENSE.md)
+[GNU AFFERO GENERAL PUBLIC LICENSE 3.0 - AGPL-3](LICENSE.md)
