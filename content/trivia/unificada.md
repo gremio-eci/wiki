@@ -21,3 +21,11 @@ Muitas pessoas utilizam de conteúdos externos para estudar, uma vez que o impor
 ## Cálculos
 
 - [MAC118 - Cálculo 1 (6 créditos)]({{< ref "/materia/mac118-calculo-1.md" >}})
+
+## Físicas
+
+- [FIT112 - Física 1 (4 créditos)]({{< ref "/materia/fit112-fisica-1.md" >}})
+
+## Fisicas Experimentais
+
+- [FIS111 - Física Experimental 1 (1 crédito)]({{< ref "/materia/fis111-fisica-experimental-1.md" >}})

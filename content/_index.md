@@ -18,6 +18,30 @@ Página institucional: http://www.poli.ufrj.br/graduacao_cursos_engenharia_compu
 
 Podemos ver que o design da página foi feito por algum engenheiro da computação, assim como dessa wiki
 
+# Redes Sociais
+
+Existem alguns grupos em redes sociais que são interessantes de se ter acesso:
+
+- [Grupo do facebook da Poli](https://www.facebook.com/groups/130805703670474)
+
+Possui bastante discussão sobre professores e matérias, basta usar a busca do grupo com o nome dos professores (em geral de unificadas) que se encontra muita coisa. É um grupo bastante offtopic e polêmico, mas contém muita informação registrada.
+
+- [Grupo do facebook de ECI](https://www.facebook.com/groups/172239052824192)
+
+No geral fica abandonado, mas é o local onde discussões sobrevivem mais. Existem algumas ofertas de trabalho. O grêmio e os alunos tendem a terem discussões "mais oficiais, mas não 100% oficiais" por ali.
+
+Uma das polêmicas mais famosas foi o caso do [Moleskine do Fabão, perdido pelo CT, cheio de covers do Manowar](https://www.facebook.com/groups/130805703670474/permalink/623595661058140/)
+
+- Grupo do whatsapp de ECI
+
+Peça para algum aluno te adicionar, no geral tem muita conversa offtopic, mas é bastante ativo nos períodos mais importantes (de inscrição de matéria, quando temos problemas no curso e na universidade, etc)
+
+- Polimail
+
+As listas de e-mail do polimail (e-mail criado para todos os estudantes da poli quando ingressam na faculdade) são bastante úteis, muitas ofertas de emprego são feitas por lá. De cursos e atividades extra-curriculares também. Volta e meia ocorrem as famosas poli-fights, com alunos respondendo a todos da lista (essa funcionalidade foi limitada ao longo dos anos por causa do famoso [SAIR]({{< ref "/trivia/sair.md" >}}).
+
+- [Github do grêmio](https://github.com/gremio-eci)
+
 # Grade
 
 É importante saber que por ser um curso pequeno muitas matérias são dadas apenas uma vez ao ano, eletivas são sazonais e dependem da disponibilidade de professores e acontece de existir conflitos nas grades.
@@ -52,13 +76,16 @@ Fluxograma interativo específico da grade do curso, permitindo acompanhar a pr�
 
 Criado por [Carlos Eduardo Marciano](https://github.com/cemarciano), formado em ECI e extendido por outros ao longo dos anos
 
-Código fonte em: https://github.com/gremio-eci/Fluxograma-da-Grade
+Código fonte em: https://github.com/gremio-eci/grade
 
 ## 1º Periodo
 
 - [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/materia/cos110-algoritmos-e-programacao.md" >}})
 - [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/materia/eel280-circuitos-logicos.md" >}})
 - [MAC118 - Cálculo 1 (6 créditos)]({{< ref "/materia/mac118-calculo-1.md" >}})
+- [FIS111 - Física Experimental 1 (1 crédito)]({{< ref "/materia/fis111-fisica-experimental-1.md" >}})
+- [FIT112 - Física 1 (4 créditos)]({{< ref "/materia/fit112-fisica-1.md" >}})
+- [COS111 - Introdução à Engenharia da Computação e Informação]({{< ref "/materia/cos111-intro-eng-de-comput-e-info.md" >}})
 
 ## 2º Periodo
 
