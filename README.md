@@ -10,7 +10,7 @@ It's a static wiki, generated from markdown files at `content/`
 
 # Dependencies
 
-- [Hugo](https://github.com/gohugoio/hugo)
+- [Hugo's CLI](https://github.com/gohugoio/hugo)
 
 Generates static sites from markdown content (and a theme)
 
