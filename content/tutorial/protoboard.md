@@ -5,5 +5,8 @@ draft: false
 ---
 
 Para essa receita você vai precisar de:
-- 3 *Protoboards* de 830 pontos.
-- Um cabo USB velho.
+- 3 *Protoboards* de 830 pontos
+- Um cabo USB velho
+- Fita isolante
+
+![*Protoboard* 830 pontos](/static/protoboard.jpg)
