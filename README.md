@@ -1,5 +1,7 @@
 # Wiki de ECI - UFRJ
 
+https://gremio-eci.github.io/wiki/
+
 Crowdsourced wiki for Engenharia da Computação e Informação - Universidade Federal do Rio de Janeiro
 
 *Computer and Information Engineering - Federal University of Rio de Janeiro*
