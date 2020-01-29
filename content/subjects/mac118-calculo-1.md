@@ -7,7 +7,7 @@ draft: false
 - Código: MAC118
 - Créditos: 6
 - Site: http://www.im.ufrj.br/calculo1/
-- Professor: [Matéria unificada](/wiki{{< ref "/trivia/unificada.md" >}})
+- Professor: [Matéria unificada]({{< ref "/trivia/unificada.md" >}})
 
 Por ser uma matéria unificada muitos professores estão disponíveis. O Jair costuma ser o mais procurado de forma que muitos assistem às suas aulas mesmo sem estarem inscritos, embora muitas vezes suas aulas lotem e ele acabe por proibir não inscritos.
 

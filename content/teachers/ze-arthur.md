@@ -8,4 +8,4 @@ Lenda da UFRJ, deu aula pros pais de alguns calouros (não é piada)
 
 ## Matérias
 
-- [EEL280 - Circuitos Lógicos (5 créditos)](/wiki{{< ref "/subjects/eel280-circuitos-logicos.md" >}})
+- [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/subjects/eel280-circuitos-logicos.md" >}})
