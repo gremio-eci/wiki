@@ -56,4 +56,4 @@ Código fonte em: https://github.com/gremio-eci/Fluxograma-da-Grade
 
 ## 1º Periodo
 
-- [EEL470 - Algoritmos e Programação (5 créditos)]({{< ref "/subjects/algoritmos-e-programacao.md" >}})
+- [EEL470 - Algoritmos e Programação (5 créditos)]({{< ref "subjects/algoritmos-e-programacao.md" >}})
