@@ -1,6 +1,6 @@
 ---
 title: "Diego"
-date: 2020-01-29T15:45:34-15:48
+date: 2020-01-29T18:14:36-03:00
 draft: false
 ---
 
@@ -13,4 +13,4 @@ draft: false
 
 ## Matérias
 
-- [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/materia/eel280-circuitos-logicos.md" >}})
+- [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/materia/eel280-circuitos-logicos.md" >}})

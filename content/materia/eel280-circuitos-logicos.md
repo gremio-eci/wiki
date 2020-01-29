@@ -18,5 +18,3 @@ Ensina como portas lógicas podem desenvolver matemática e outros circúitos ma
 Quem não conseguir pegar o material com alunos que já fizeram, é possível encontrar no centro, embora breadboards do tamanho necessário cheguem a custar algumas dezenas de reais. Alguns que se previnem e compram com meses de antecedência encomendam tudo da China por muito barato.
 
 É continuada em "Sistemas Digitais - Braffman" e "Arquitetura de Computador - Braffman". É toda uma sequência excelente, mas que dará bastante trabalho. Levam do conceito de portas lógicas até o desenhar de um processador inteiro no papel.
-
-Essa mesma aula já foi dada pros pais de alguns calouros (não é piada).
