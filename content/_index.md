@@ -87,6 +87,6 @@ Código fonte em: https://github.com/gremio-eci/grade
 - [FIT112 - Física 1 (4 créditos)]({{< ref "/materia/fit112-fisica-1.md" >}})
 - [COS111 - Introdução à Engenharia da Computação e Informação]({{< ref "/materia/cos111-intro-eng-de-comput-e-info.md" >}})
 
-## 2º Periodo
+## 3º Periodo
 
 - [COS213 - Estruturas de Dados (5 créditos)]({{< ref "/materia/cos213-estruturas-de-dados.md" >}})
