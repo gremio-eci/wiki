@@ -20,4 +20,4 @@ Muitas pessoas utilizam de conteúdos externos para estudar, uma vez que o impor
 
 ## Cálculos
 
-- [MAC118 - Cálculo 1 (6 créditos)]({{< ref "/class/mac118-calculo-1.md" >}})
+- [MAC118 - Cálculo 1 (6 créditos)]({{< ref "/materia/mac118-calculo-1.md" >}})

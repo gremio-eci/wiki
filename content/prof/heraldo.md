@@ -13,5 +13,5 @@ draft: false
 
 ## Matérias
 
-- [EEL470 - Algoritmos e Estruturas de Dados (5 créditos)]({{< ref "/class/eel470-algoritmos-e-estruturas-de-dados.md" >}})
+- [EEL470 - Algoritmos e Estruturas de Dados (5 créditos)]({{< ref "/materia/eel470-algoritmos-e-estruturas-de-dados.md" >}})
 

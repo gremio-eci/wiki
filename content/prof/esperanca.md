@@ -11,5 +11,5 @@ draft: false
 
 ## Matérias
 
-- [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/class/cos110-algoritmos-e-programacao.md" >}})
+- [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/materia/cos110-algoritmos-e-programacao.md" >}})
 

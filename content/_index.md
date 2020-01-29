@@ -46,7 +46,7 @@ Feito para facilitar na montagem de grade de cada período, basicamente é uma i
 
 Criado por [Guilherme Pim](https://github.com/pimguilherme), ex-aluno da UFRJ
 
-- [Fluxograma da Grade](https://gremio-eci.github.io/Fluxograma-da-Grade/)
+- [Fluxograma da Grade](https://gremio-eci.github.io/grade/)
 
 Fluxograma interativo específico da grade do curso, permitindo acompanhar a própria trajetória no curso.
 
@@ -56,10 +56,10 @@ Código fonte em: https://github.com/gremio-eci/Fluxograma-da-Grade
 
 ## 1º Periodo
 
-- [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/class/cos110-algoritmos-e-programacao.md" >}})
-- [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/class/eel280-circuitos-logicos.md" >}})
-- [MAC118 - Cálculo 1 (6 créditos)]({{< ref "/class/mac118-calculo-1.md" >}})
+- [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/materia/cos110-algoritmos-e-programacao.md" >}})
+- [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/materia/eel280-circuitos-logicos.md" >}})
+- [MAC118 - Cálculo 1 (6 créditos)]({{< ref "/materia/mac118-calculo-1.md" >}})
 
 ## 2º Periodo
 
-- [COS213 - Estruturas de Dados (5 créditos)]({{< ref "/class/cos213-estruturas-de-dados.md" >}})
+- [COS213 - Estruturas de Dados (5 créditos)]({{< ref "/materia/cos213-estruturas-de-dados.md" >}})
