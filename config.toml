@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+#baseURL = "http://example.org/"
 theme = "wiki"
 languageCode = "pt-BR"
 title = "Wiki - Grêmio de ECI"
@@ -17,7 +17,7 @@ GoogleAnalytics = 'UA-URCODE'
     name = "Grêmio de ECI"
 
 [params]
-    logo = "/logo.jpeg"
+    logo = "logo.jpeg"
 
 sectionPagesMenu = "main"
 [[ menu.main ]]

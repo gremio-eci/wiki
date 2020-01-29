@@ -2,8 +2,8 @@
     <div class="container">
         <section class="logo-header">
             <div id="logo-section">
-                <img src="{{ .Site.Params.logo }}" alt="Logo" />
-                <a href="/">{{ .Site.Title }} </a>
+                <img src="/wiki/{{ .Site.Params.logo }}" alt="Logo" />
+                <a href="/wiki">{{ .Site.Title }} </a>
             </div>
         </section>
 
@@ -11,7 +11,7 @@
         <section class="navigation">
             <nav class="menu">
 {{ $currentPage := . }} {{ range .Site.Menus.main.ByWeight }}
-                <a class="menu-nav-item{{if or ($currentPage.IsMenuCurrent " main " .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a> {{ end }}
+                <a class="menu-nav-item{{if or ($currentPage.IsMenuCurrent " main " .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="/wiki/{{.URL}}">{{ .Name }}</a> {{ end }}
             </nav>
         </section>
 
