@@ -28,6 +28,8 @@ If you have writing rights to this repository run
 
 If not, make a pull request with the edited markdown (at `content/`) and an admin will publish it for you
 
+If you are a ECI student just ask us to add you to the repository
+
 # License
 
 [GNU AFFERO GENERAL PUBLIC LICENSE 3.0 - AGPL-3](LICENSE.md)
