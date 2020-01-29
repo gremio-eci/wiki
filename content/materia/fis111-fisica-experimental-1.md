@@ -8,6 +8,7 @@ draft: false
 - Créditos: 1
 - Site: https://fisexp1.if.ufrj.br/
 - Professor: [Unificada]({{< ref "/trivia/unificada.md" >}})
+- Máximo de Faltas: 3
 
 É uma matéria feita pra ser chata. Na primeira semana você provavelmente vai medir uma mesa grande 60 vezes seguidas com uma régua de 20cm. Isso serve para você entender o quão difícil é fazer experimentações e levar em conta as margens de erros.
 

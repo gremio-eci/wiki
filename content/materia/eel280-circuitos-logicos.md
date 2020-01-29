@@ -7,6 +7,7 @@ draft: false
 - Código: EEL280
 - Créditos: 5
 - Site: https://www.compasso.ufrj.br/disciplinas/eel280
+- Máximo de Faltas: Não falte, é difícil à rodo
 - Professor: [Diego Dutra]({{< ref "/prof/diego.md" >}})
 
 É uma matéria bastante difícil, requer atenção e presença nas aulas. Mas é muito interessante. É uma das poucas matérias de eletrônica que temos, mas é fundamental para nossa formação.

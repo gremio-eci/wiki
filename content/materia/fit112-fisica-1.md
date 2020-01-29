@@ -8,6 +8,7 @@ draft: false
 - Créditos: 4
 - Site: https://fisica1.if.ufrj.br/
 - Professor: [Unificada]({{< ref "/trivia/unificada.md" >}})
+- Máximo de Faltas: 7 (veteranos podem puxar [semi-presencial]({{< ref "/trivia/unificada.md" >}}))
 
 Descrição oficial: Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).
 
