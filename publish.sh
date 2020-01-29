@@ -1,5 +1,5 @@
 #!/bin/bash
-hugo -D
-git add public/
+hugo -D -d docs
+git add docs/
 git commit -m "Publish"
 git push origin master
