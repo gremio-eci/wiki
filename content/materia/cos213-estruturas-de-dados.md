@@ -8,7 +8,6 @@ draft: false
 - Créditos: 5
 - Professor: [Strauss]({{< ref "/prof/strauss.md" >}})
 - Requisitos: Álgebra Linear
-
 - Equivalente: [EEL470 - Algoritmos e Estruturas de Dados]({{< ref "/materia/eel470-algoritmos-e-estruturas-de-dados.md" >}}) - [Heraldo]({{< ref "/prof/heraldo.md" >}})
 
 # Conteúdo
