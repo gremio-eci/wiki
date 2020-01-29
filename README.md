@@ -16,7 +16,7 @@ Generates static sites from markdown content (and a theme)
 
 `./local.sh`
 
-It will run hugo listening at `localhost:1313`
+It will run hugo listening at http://127.0.0.1:1313/wiki
 
 # To publish
 
