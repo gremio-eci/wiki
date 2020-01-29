@@ -1,10 +1,8 @@
 ---
-title: "Diego"
+title: "Diego Leonel Cadette Dutra"
 date: 2020-01-29T18:14:36-03:00
 draft: false
 ---
-
-# Diego Leonel Cadette Dutra
 
 ![Foto do Diego](https://www.del.ufrj.br/portal_memberdata/portraits/diego.dutra)
 

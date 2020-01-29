@@ -1,10 +1,8 @@
 ---
-title: "Strauss"
+title: "Edilberto Strauss"
 date: 2020-01-29T02:56:12-03:00
 draft: false
 ---
-
-# Edilberto Strauss
 
 Diretor de Ensino e Extensão
 

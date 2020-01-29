@@ -1,10 +1,8 @@
 ---
-title: "Heraldo"
+title: "Heraldo Luís Silvera de Almeida"
 date: 2020-01-29T02:56:12-03:00
 draft: false
 ---
-
-# Heraldo Luís Silveira de Almeida
 
 ![Foto do Heraldo](http://www.del.ufrj.br/~heraldo/index_foto.jpg)
 
