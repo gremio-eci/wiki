@@ -58,7 +58,7 @@ Site oficial do SIGA, existem também aplicativos oficiais para telefones
 
 Possui bastante informação sobre equivalências e distribuição geral dos créditos, e da uma ajuda mínima na questão de optativas e humanas.
 
-A maioria das optativa não é dada, portanto é necessário esperar o período de inscrição de matérias para saber quais existem (algumas demoram a aparecer no sistema)
+A maioria das optativas não é dada, portanto é necessário esperar o período de inscrição de matérias para saber quais existem (algumas demoram a aparecer no sistema)
 
 - [Grade Horária](https://siga.ufrj.br/sira/gradeHoraria/A46B41C8-92A4-F79C-7383-BE627D84214E)
 
