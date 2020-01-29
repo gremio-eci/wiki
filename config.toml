@@ -22,10 +22,10 @@ pygmentsStyle = "manni"
 sectionPagesMenu = "main"
 [[ menu.main ]]
    name="Fluxograma da Grade"
-   url="https://gremio-eci.github.io/grade"
+   url="https://gremio-eci.github.io/grade/"
    weight = 300
 
 [[ menu.main ]]
    name="Github de ECI"
-   url="https://github.com/gremio-eci"
+   url="https://github.com/gremio-eci/"
    weight = 300
