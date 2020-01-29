@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Início on Wiki - Grêmio de ECI</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content in Início on Wiki - Grêmio de ECI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 29 Jan 2020 01:29:11 -0300</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algoritmos E Programacao</title>
-      <link>http://example.org/subjects/algoritmos-e-programacao/</link>
+      <link>/subjects/algoritmos-e-programacao/</link>
       <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
       
-      <guid>http://example.org/subjects/algoritmos-e-programacao/</guid>
+      <guid>/subjects/algoritmos-e-programacao/</guid>
       <description>Algoritmos e Programação  Créditos: 5
  Professor: Heraldo
  Site da matéria: http://www.del.ufrj.br/~heraldo/eel470.html
