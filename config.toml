@@ -22,5 +22,5 @@ pygmentsStyle = "manni"
 sectionPagesMenu = "main"
 [[ menu.main ]]
    name="Code"
-   url="https://github.com/gremio-eci"
+   url="https://github.com/gremio-eci/"
    weight = 300
