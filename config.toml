@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+theme = "wiki"
+languageCode = "pt-BR"
+title = "Wiki - Grêmio de ECI"
+
+pygmentsCodeFences = true
+# https://help.farbox.com/pygments.html
+pygmentsStyle = "manni"
+GoogleAnalytics = 'UA-URCODE'
+
+# Optional - output json (for custom search)
+[outputs]
+    home = [ "HTML", "RSS", "JSON"]
+
+
+[author]
+    name = "Grêmio de ECI"
+
+[params]
+    logo = "/logo.jpeg"
+
+sectionPagesMenu = "main"
+[[ menu.main ]]
+   name="Git"
+   url="https://github.com/gremio-eci"
+   weight = 300
