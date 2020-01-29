@@ -6,7 +6,7 @@ title = "Wiki - Grêmio de ECI"
 pygmentsCodeFences = true
 # https://help.farbox.com/pygments.html
 pygmentsStyle = "manni"
-GoogleAnalytics = 'UA-URCODE'
+#GoogleAnalytics = 'UA-URCODE'
 
 # Optional - output json (for custom search)
 [outputs]

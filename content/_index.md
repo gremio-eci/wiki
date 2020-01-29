@@ -56,10 +56,10 @@ Código fonte em: https://github.com/gremio-eci/Fluxograma-da-Grade
 
 ## 1º Periodo
 
-- [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/subjects/cos110-algoritmos-e-programacao.md" >}})
-- [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/subjects/eel280-circuitos-logicos.md" >}})
-- [MAC118 - Cálculo 1]({{< ref "/subjects/mac118-calculo-1.md" >}})
+- [COS110 - Algoritmos e Programação (5 créditos)]({{< ref "/class/cos110-algoritmos-e-programacao.md" >}})
+- [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/class/eel280-circuitos-logicos.md" >}})
+- [MAC118 - Cálculo 1]({{< ref "/class/mac118-calculo-1.md" >}})
 
 ## 2º Periodo
 
-- [COS213 - Estruturas de Dados (5 créditos)]({{< ref "/subjects/cos213-estruturas-de-dados.md" >}})
+- [COS213 - Estruturas de Dados (5 créditos)]({{< ref "/class/cos213-estruturas-de-dados.md" >}})

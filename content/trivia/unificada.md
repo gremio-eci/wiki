@@ -18,4 +18,4 @@ Muitas pessoas utilizam de conteúdos externos para estudar, uma vez que o impor
 
 # Matérias
 
-- [MAC118 - Cálculo 1]({{< ref "/subjects/mac118-calculo-1.md" >}})
+- [MAC118 - Cálculo 1]({{< ref "/class/mac118-calculo-1.md" >}})

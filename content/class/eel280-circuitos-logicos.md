@@ -7,7 +7,7 @@ draft: false
 - Código: EEL280
 - Créditos: 5
 - Site: http://www.del.ufrj.br/~arthur/eel280/main.htm
-- Professor: [José Arthur]({{< ref "/teachers/ze-arthur.md" >}})
+- Professor: [José Arthur]({{< ref "/teacher/ze-arthur.md" >}})
 
 É uma matéria bastante difícil, requer atenção e presença nas aulas. Mas é muito interessante. É uma das poucas matérias de eletrônica que temos, mas é fundamental para nossa formação.
 
