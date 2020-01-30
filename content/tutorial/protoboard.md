@@ -13,8 +13,8 @@ Para essa receita você vai precisar de:
 5. Tesoura
 
 E se tiver, mas nao precisa:
-6. Solda e ferro de solda
-7. Uma pinça
+1. Solda e ferro de solda
+2. Uma pinça
 
 ## Sobre a *protoboard*
 ![*Protoboard* 830 pontos](/wiki/protoboard_830_pontos.jpg)
