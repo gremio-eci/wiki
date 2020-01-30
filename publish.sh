@@ -1,4 +1,17 @@
 #!/bin/bash
+
+if ! [ -x "$(command -v git)" ]; then
+  echo "Error: Must install 'git' before running this program."
+  echo "Check the README.md"
+  exit 1
+fi
+
+if ! [ -x "$(command -v hugo)" ]; then
+  echo "Error: Must install 'hugo' before running this program."
+  echo "Check the README.md"
+  exit 1
+fi
+
 git stash
 git checkout gh-pages
 git reset --hard master
