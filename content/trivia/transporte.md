@@ -4,11 +4,13 @@ date: 2020-01-29T19:05:11-03:00
 draft: false
 ---
 
-## Bikes no fundão
+## Veículos elétricos e Bikes no fundão
 
 Site: http://www.integraufrj.com.br/
 
 O uso das bicicletas pelo fundão é gratúito, são permitidas corridas de até 45 minutos, com intervalos mínimos de 15 minutos entre corrídas. Caso contrário, para cada 30 minutos ultrapassados dos 45 minutos será gerado um bloqueio de 24 horas para sua conta.
+
+O uso dos carros elétricos pelo fundão também é gratuito, onde é necessário previamente cadastrar sua carteira de habilitação. É permitido utilizar o carro por 120 minutos desde que seja respeitada a regra de 15 minutos de intervalo entre uma viagem e outra. Caso contrário, as pessoas serão penalizadas com o bloqueio do cadastro por 24 horas para cada 30 minutos a mais de utilização.
 
 ## Onibus internos de uso gratuito
 

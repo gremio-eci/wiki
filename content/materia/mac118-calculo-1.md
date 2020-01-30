@@ -17,3 +17,14 @@ A maior dica para o cálculo é realizar muitos exercícios para pegar as manhas
 Existe também uma lista muito usada conhecida como a ["Lista do Jair"](https://www.labma.ufrj.br/~mcabral/livros/lista-jair/Lista-do-Jair-V1.3.pdf), feita pelo professor citado mais acima. Muitos alunos utilizam também o livro de Cálculo 1 do James Stewart.
 
 O mais difícil de cálculo é o pré-calculo, muitos alunos acabam bastante prejudicados por terem uma base menos aprofundada no ensino médio.
+
+**Frequentem as monitorias sempre que possível**
+
+Os monitores sempre são os alunos que tiveram mais facilidade na matéria que os demais, no qual facilitou eles a passarem em um processo seletivo que exige no mínimo nota 7,0 (o necessário para passar direto).
+Logo, eles possuem dicas ou até mesmo sacadas que, caso vocês consigam aprender, será uma maneira de facilitar a aprovação de vocês.
+Estejam sempre antenados em relação aos ["Horários"](http://im.ufrj.br/~monitoriadm/)
+
+**Ajude seus colegas de turma sempre que possível**
+
+Infelizmente, devido a correria do dia a dia, esquecemos de olhar para pessoa ao nosso lado e perguntar se ela precisa de ajuda ou até mesmo chamar para estudar em grupo. Para muitos, isso pode ser uma perda de tempo, porém, para algumas pessoas, ter alguém ao lado estudando pode ser uma grande motivação.
+
