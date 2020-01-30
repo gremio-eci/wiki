@@ -12,7 +12,7 @@ Para essa receita você vai precisar de:
 4. *Jumpers*, cabos ou fios metálicos finos.
 5. Tesoura
 
-E se tiver, mas nao precisa:
+E se tiver, mas não precisa:
 1. Solda e ferro de solda
 2. Uma pinça
 
@@ -24,7 +24,7 @@ Esse modelo de *protoboard* normalmente vem com engates laterais que permitem ac
 As placas tem 3 partes distintas: Uma central, com trilhas horizontais; e outras duas nas laterais, com trilhas verticais e marcações de positivo/negativo.
 
 ## Modo de Preparo
-1. Essas placas tambem tem um adesivo emborrachado na parte de baixo. Tente remover esse adesivo com cuidado, se preciso utilizando uma pinça. Guarde os adesivos com esmero pois eles serão colocados de volta no final do processo.
+1. Essas placas também tem um adesivo emborrachado na parte de baixo. Tente remover esse adesivo com cuidado, se preciso utilizando uma pinça. Guarde os adesivos com esmero pois eles serão colocados de volta no final do processo.
 2. Remova as partes laterais (as que contém as trilhas positivo/negativo) de uma das 3 placas.
 3. Ecaixe as duas placas completas na placa cujas laterais foram removidas, de modo que esta fique no meio. Nesse ponto você deve ter uma única placa, que intercala trilhas de verticais com trechos de placa de trilhas horizontais.
 4. Agora vire a placa de ponta-cabeça, e você poderá observar as trilhas metálicas expostas.
