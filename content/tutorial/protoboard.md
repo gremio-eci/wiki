@@ -17,7 +17,7 @@ E se tiver, mas nao precisa:
 7. Uma pinça
 
 ## Sobre a *protoboard*
-![*Protoboard* 830 pontos](/protoboard_830_pontos.jpg)
+![*Protoboard* 830 pontos](protoboard_830_pontos.jpg)
 
 Esse modelo de *protoboard* normalmente vem com engates laterais que permitem acoplar uma placa na outra. Custam em média R$12 cada, então cuidado pra não levar facada.
 
@@ -32,7 +32,7 @@ As placas tem 3 partes distintas: Uma central, com trilhas horizontais; e outras
   1. Com um objeto pontiagudo, levante cuidadosamente uma das extremidades da trilha, e posicione a ponta do fio ou *jumper* entre a trilha e a placa e empurre a trilha de volta, prendendo o fio.
   2. Se você possui equipamento de solda, você pode soldar, **com cuidado**, o fio na trilha. Caso contrário, fixe bem com fita isolante e tá tudo certo.
 6. Uma vez conectadas as trillhas positivas e as trilhas negativas, pegue o cabo USB velho e corte fora a ponta menor, tentando aproveitar ao máximo o comprimento do cabo.
-![Cabo USB](/cabo_usb.jpg)
+![Cabo USB](cabo_usb.jpg)
 7. Como mostra a figura, corte fora os cabos que não forem vermelhos nem pretos ~~VAI MENGO!~~ e conecte o cabo vermelho em uma das trilhas em **positivo** e o preto na trilha vizinha em **negativo**.
 8. Reposicione os adesivos na placa, recortando os pedaços sobressalentes.
 9. Conecte o cabo USB em um carregador de celular com saída **5V** e você já pode botar os seus componentes pra funcionar.
