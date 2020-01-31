@@ -10,12 +10,12 @@ Caso seja um aluno de ECI basta pedir à algum admin da organização [Gremio EC
 
 ## Fontes que podem ajudar
 
-- [Markdown](https://gremio-eci.github.io/wiki/tutorial/markdown.md)
-- [Tutorial do Git](https://gremio-eci.github.io/wiki/tutorial/git.md)
+- [Markdown](https://gremio-eci.github.io/wiki/tutorial/markdown)
+- [Tutorial do Git](https://gremio-eci.github.io/wiki/tutorial/git)
 - [Adicionar chave SSH ao github](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 - [Hugo](https://gohugo.io)
 
-## Ingredientes
+## Dependências
 
 1. [git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) instalado.
 2. [hugo](https://gohugo.io/getting-started/installing/) instalado
@@ -40,8 +40,7 @@ Uma pasta `wiki/` será criada e nela o repositório estará clonado.
 
 ### Modificando conteúdo
 
-Dentro da pasta `wiki/` haverá uma pasta chamada `content/`. Nessa pasta ficam os arquivos [Markdown](https://gremio-eci.github.io/wiki/tutorial/markdown.md
-), modifique-os a vontade em seu editor de texto favorito (ou IDE).
+Dentro da pasta `wiki/` haverá uma pasta chamada `content/`. Nessa pasta ficam os arquivos [Markdown](https://gremio-eci.github.io/wiki/tutorial/markdown), modifique-os a vontade em seu editor de texto favorito (ou IDE).
 
 Para criar um arquivo novo digite
 
@@ -102,7 +101,7 @@ Create markdown and contribution tutorial
 
 Antes de dar push é importante saber se existem modificações feitas por outros, idealmente elas seriam obtidas antes de iniciar as modificações, mas nem sempre isso é possível.
 
-É possível utilizar branches para manter seu código lá sem atrapalhar master, quando ainda está incompleto. Isso evita muita dor de cabeça, se sua modificação for extensa e você quiser commitar por favor crie uma nova branch e a utilize até o merge. Para mais informações cheque o tutorial de [Git](https://gremio-eci.github.io/wiki/tutorial/git.md" >}})
+É possível utilizar branches para manter seu código lá sem atrapalhar master, quando ainda está incompleto. Isso evita muita dor de cabeça, se sua modificação for extensa e você quiser commitar por favor crie uma nova branch e a utilize até o merge. Para mais informações cheque o tutorial de [Git](https://gremio-eci.github.io/wiki/tutorial/git)
 
 `git pull origin master`
 
