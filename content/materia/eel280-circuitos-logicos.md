@@ -22,7 +22,7 @@ E se você já cursou,
 
 **Passe o seu material adiante!**
 
-A protoboard necessária é uma protoboard grande, mas ela costuma ser mais cara que 3 pequenas, portanto montamos um tutorial para construir a sua protoboard grande à partir das pequenas.
+A protoboard necessária é uma protoboard grande, mas ela costuma ser mais cara que 3 pequenas, portanto montamos um tutorial para construir a sua protoboard grande a partir das pequenas.
 
 Basicamente, será necessária uma [Placa de Ensaio (*protoboard*, *breadboard*)](https://pt.wikipedia.org/wiki/Placa_de_Ensaio) grande e algumas [Portas Lógicas](https://pt.wikipedia.org/wiki/Porta_l%C3%B3gica). Pensando nisso, foram criados:
 
