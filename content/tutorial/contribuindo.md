@@ -35,7 +35,7 @@ Abra o terminal, dele você faz tudo (até editar o markdown se utilizar um edit
 
 ### Clonando o repositório
 
-`git clone https://github.com/gremio-eci/wiki`
+`git clone git@github.com:gremio-eci/wiki.git`
 
 Uma pasta `wiki/` será criada e nela o repositório estará clonado.
 
