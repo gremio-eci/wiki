@@ -6,9 +6,7 @@ Essa wiki é colaborativa, de forma que se algo está errado, por favor modifiqu
 
 É uma wiki estática, gerada a partir do gerador de sites [Hugo](https://gohugo.io/), utilizamos arquivos de sintaxe [Markdown](https://gremio-eci.github.io/wiki/tutorial/markdown.md) para editar os artigos.
 
-O código fonte (com os conteúdos) se encontra em https://github.com/gremio-eci/wiki
-
-Caso seja um aluno de ECI fique basta pedir à algum admin da organização [Gremio ECI](https://github.com/gremio-eci) para te adicionar como membro. Se não, faça um fork no github e crie um pull request com as modificações feitas.
+Caso seja um aluno de ECI basta pedir à algum admin da organização [Gremio ECI](https://github.com/gremio-eci) para te adicionar como membro. Se não, faça um fork no github e crie um pull request com as modificações feitas.
 
 ## Fontes que podem ajudar
 
