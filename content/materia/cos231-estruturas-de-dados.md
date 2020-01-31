@@ -4,10 +4,10 @@ date: 2020-01-29T01:29:11-03:00
 draft: false
 ---
 
-- Código: COS213
+- Código: COS231
 - Créditos: 5
 - Professor: [Strauss]({{< ref "/prof/strauss.md" >}})
-- Requisitos: Álgebra Linear
+- Requisitos: Álgebra Linear 2
 - Equivalente: [EEL470 - Algoritmos e Estruturas de Dados]({{< ref "/materia/eel470-algoritmos-e-estruturas-de-dados.md" >}}) - [Heraldo]({{< ref "/prof/heraldo.md" >}})
 
 # Conteúdo

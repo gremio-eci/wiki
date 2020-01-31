@@ -93,6 +93,77 @@ Código fonte em: https://github.com/gremio-eci/grade
 - [FIT112 - Física 1 (4 créditos)]({{< ref "/materia/fit112-fisica-1.md" >}})
 - [COS111 - Introdução à Engenharia da Computação e Informação]({{< ref "/materia/cos111-intro-eng-de-comput-e-info.md" >}})
 
+## 2º Período
+
+- EEL670 - Linguagens de Programação (5 créditos)
+- MAE125 - Algebra Linear 2 (4 créditos)
+- EEL480 - Sistemas Digitais (5 créditos)
+- MAC128 - Cálculo 2 (4 créditos)
+- FIT122 - Física 2 (4 créditos)
+- FIS121 - Física Experimental 2 (1 crédito)
+- 2 créditos de humanas
+
 ## 3º Periodo
 
-- [COS213 - Estruturas de Dados (5 créditos)]({{< ref "/materia/cos213-estruturas-de-dados.md" >}})
+- [COS231 - Estruturas de Dados (5 créditos)]({{< ref "/materia/cos231-estruturas-de-dados.md" >}})
+- EEL881 - Teoria da Computação (4 créditos)
+- EEL580 - Arquitetura de Computadores (5 créditos)
+- MAC238 - Cálculo 3 (4 créditos)
+- FIM230 - Física 3 (4 créditos)
+- FIN231 - Física Experimental 3 (1 crédito)
+- 2 créditos de humanas
+
+## 4º Período
+
+- COS242 - Teoria dos Grafos (4 créditos)
+- COE241 - Estatísticas e Modelos Probabilísticos (4 créditos)
+- COS471 - Computadores e Sociedade (4 créditos)
+- MAC248 - Cálculo 4 (4 créditos)
+- FIM240 - Física 4 (4 créditos)
+- FIN241 - Física Experimental 4 (1 crédito)
+- IQG111 - Química EE (4 créditos)
+
+## 5º Período
+
+- EEL871 - Banco de Dados (4 créditos)
+- COS351 - Lógica Matemática (4 créditos)
+- COC473 - Álgebra Linear Computacional (4 créditos)
+- EEL878 - Redes de Computadores 1 (4 créditos)
+- EEL770 - Sistemas Operacionais (5 créditos)
+- IQG112 - Química Experimental (2 créditos)
+
+## 6º Período
+
+- COS360 - Otimização (4 créditos)
+- COC361 - Inteligência Computacional (4 créditos)
+- EEl873 - Engenharia de Software (4 créditos)
+- EEL879 - Redes de Computadores 2 (4 créditos)
+- COE363 - Telecomunicações (4 créditos)
+
+## 7º Período
+
+- EEL418 - Programação Avançada (4 créditos)
+- COC472 - Computação de Alto Desempenho (3 créditos)
+- COS470 - Sistemas Distribuidos (4 créditos)
+- COP232 - Gestão do Conhecimento (4 créditos)
+- 8 créditos de eletivas
+
+## 8º Período
+
+- EEL882 - Computação Gráfica (4 creitos)
+- COS480 - Construção de Bando de Dados (4 créditos)
+- COP364 - Empreendedorismo 1 (4 créditos)
+- COS482 - Qualidade de Software (4 créditos)
+- EEWX00 - Projeto de Graduação (4 créditos)
+- 8 créditos de eletivas
+
+## 9º Período
+
+- EEWU00 - Estágio Obrigatório (160 horas)
+- 16 créditos de eletivas
+
+## 10º Período
+
+- 8 créditos de eletivas
+- 8 créditos de livre escolha
+- 405 horas de atividades complementares (ACE)

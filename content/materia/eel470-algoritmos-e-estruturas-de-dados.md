@@ -8,7 +8,7 @@ draft: false
 - Créditos: 5
 - Professor: [Heraldo]({{< ref "/prof/heraldo.md" >}})
 - Site da matéria: http://www.del.ufrj.br/~heraldo/eel470.html
-- Equivalente: [COS213 - Estruturas de Dados]({{< ref "/materia/cos213-estruturas-de-dados.md" >}}) - [Edilberto Strauss]({{< ref "/prof/strauss.md" >}})
+- Equivalente: [COS231 - Estruturas de Dados]({{< ref "/materia/cos231-estruturas-de-dados.md" >}}) - [Edilberto Strauss]({{< ref "/prof/strauss.md" >}})
 - Máximo de Faltas: ∞
 
 É uma matéria que nem sempre abre, portanto as pessoas tendem pra equivalente. 
