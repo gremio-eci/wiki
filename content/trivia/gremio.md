@@ -48,6 +48,6 @@ O grêmio começou resolvendo as pendências mais básicas, como se integrando n
 
 Uma das grandes dores sentidas no nosso curso é que a faculdade não foi feita para a atual demografia. O curso de engenharia é integral e os professores se incomodam bastante com quem trabalha durante o curso. Se não trabalhar tornaria impossível se manter no curso, trabalhar não facilita muito as coisas. O tempo exigido para se formar e o esforço dedicado são grandes e não devem ser vistos como sacrifícios que nos provam capazes, como parte da dificuldade da engenharia. Esses problemas são puramente políticos e de visão de para quem é feita a universidade.
 
-O grêmio se compromete em trabalhar nesse âmbito, desde às instâncias oficiais, como na mudança das regras de estágio. Até na criação dessa cultura de identidade como estudante e trabalhador, não apenas um estudante de tempo integral. Precisamos reconhecer os papeis que temos para melhorar nossa qualidade de vida, porque dignidade é meta.
+O grêmio se compromete em trabalhar nesse âmbito, desde as instâncias oficiais, como na mudança das regras de estágio. Até na criação dessa cultura de identidade como estudante e trabalhador, não apenas um estudante de tempo integral. Precisamos reconhecer os papeis que temos para melhorar nossa qualidade de vida, porque dignidade é meta.
 
 Por uma universidade que fortaleça o povo.
