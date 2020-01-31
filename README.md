@@ -34,6 +34,8 @@ Abra o terminal, dele você faz tudo (até editar o markdown se utilizar um edit
 
 `git clone git@github.com:gremio-eci/wiki.git`
 
+Esse endereço é o que utiliza o protocolo `SSH`, portanto será necessária uma chave SSH autenticada no github para realizar os próximos comandos. O github providencia um tutorial para [Adicionar chave SSH à sua conta](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh). Se desejado é possível utilizar o protocolo `HTTPS`, apenas substitua o endereço do clone por https://github.com/gremio-eci/wiki.git
+
 Uma pasta `wiki/` será criada e nela o repositório estará clonado.
 
 `cd wiki`
