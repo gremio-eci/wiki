@@ -52,7 +52,9 @@ Para criar um arquivo novo digite
 
 `hugo new tutorial/novo-tutorial.md`
 
-O arquivo será criado, se baseie no conteúdo de outros arquivos dapasta. Novas pastas podem ser criadas à vontade.
+Para o arquivo ir para o ar é necessário alterar em seu header `draft: true` para `draft: false`.
+
+O arquivo será criado, se baseie no conteúdo de outros arquivos da pasta. Novas pastas podem ser criadas à vontade.
 
 Arquivos estáticos além do markdown (como imagens e vídeos que não são hosteados externamente) são adicionados na pasta `static/` da base do repositório. Mas no geral tendemos a utilizar links externos, isso significa que o link um dia pode sair do ar. Mas se for um conteúdo que pode variar pode ser interessante manter a dinamicidade.
 
