@@ -1,11 +1,11 @@
 if (-Not (Get-Command git -errorAction SilentlyContinue)) {
-  ./Installer.ps1
   Write-Output "Warning: Git not found, installing it"
+  ./Installer.ps1
 }
 
 if (-Not (Get-Command hugo -errorAction SilentlyContinue)) {
-  ./Installer.ps1
   Write-Output "Warning: Hugo not found, installing it"
+  ./Installer.ps1
 }
 
 $Stash = git stash --include-untracked
