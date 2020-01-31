@@ -50,4 +50,4 @@ Uma das grandes dores sentidas no nosso curso é que a faculdade não foi feita 
 
 O grêmio se compromete em trabalhar nesse âmbito, desde as instâncias oficiais, como na mudança das regras de estágio. Até na criação dessa cultura de identidade como estudante e trabalhador, não apenas um estudante de tempo integral. Precisamos reconhecer os papeis que temos para melhorar nossa qualidade de vida, porque dignidade é meta.
 
-Por uma universidade que fortaleça o povo.
+Estamos aqui por uma universidade que fortaleça o povo.
