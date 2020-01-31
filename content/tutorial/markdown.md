@@ -4,7 +4,8 @@ date: 2020-01-30T12:48:29-03:00
 draft: false
 ---
 
-Referência: https://www.markdownguide.org Editor Online: https://dillinger.io/
+- Referência: https://www.markdownguide.org
+- Editor Online: https://dillinger.io/
 
 Markdown é uma linguagem de marcação, usada para converter texto em HTML. Torna muito simples a formatação de texto graficamente.
 

@@ -8,4 +8,4 @@ Existe a carteirinha virtual, disponível no aplicativo do SIGA para todos os al
 
 Além dessa elas podem ser [emitidas pela UNE](https://une.org.br/lp/carteira-de-estudante-oficial) por 35 reais + frete.
 
-O CAENG (Centro Acadêmico de Engenharia) também costuma emitir anualmente para alunos das engenharias que representa. Para mais informações consulte o CAENG.
+O [CAENG (Centro Acadêmico de Engenharia)]({{< ref "/trivia/caeng.md" >}}) também costuma emitir anualmente para alunos das engenharias que representa. Para mais informações consulte o CAENG.

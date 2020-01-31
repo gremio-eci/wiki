@@ -18,6 +18,9 @@ Página institucional: http://www.poli.ufrj.br/graduacao_cursos_engenharia_compu
 
 Podemos ver que o design da página foi feito por algum engenheiro da computação, assim como dessa wiki
 
+
+# [Grêmio de ECI]({{< ref "/trivia/gremio.md" >}})
+
 # [Bandejão]({{< ref "/trivia/bandejao.md" >}})
 
 # [Transportes]({{< ref "/trivia/transporte.md" >}})

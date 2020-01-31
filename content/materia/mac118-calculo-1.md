@@ -16,6 +16,10 @@ A maior dica para o cálculo é realizar muitos exercícios para pegar as manhas
 
 Existe também uma lista muito usada conhecida como a ["Lista do Jair"](https://www.labma.ufrj.br/~mcabral/livros/lista-jair/Lista-do-Jair-V1.3.pdf), feita pelo professor citado mais acima. Muitos alunos utilizam também o livro de Cálculo 1 do James Stewart.
 
+O curso da UNICAMP costuma ajudar a muita gente: https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B
+
+Também existe a série do 3Blue1Brown: https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
 O mais difícil de cálculo é o pré-calculo, muitos alunos acabam bastante prejudicados por terem uma base menos aprofundada no ensino médio.
 
 **Frequentem as monitorias sempre que possível**
@@ -27,4 +31,3 @@ Estejam sempre antenados em relação aos ["Horários"](http://im.ufrj.br/~monit
 **Ajude seus colegas de turma sempre que possível**
 
 Infelizmente, devido a correria do dia a dia, esquecemos de olhar para pessoa ao nosso lado e perguntar se ela precisa de ajuda ou até mesmo chamar para estudar em grupo. Para muitos, isso pode ser uma perda de tempo, porém, para algumas pessoas, ter alguém ao lado estudando pode ser uma grande motivação.
-

@@ -99,9 +99,9 @@ Suas mensagens devem ser em inglês (os nomes em português podem se manter em p
 Exemplo de mensagem:
 
 ```
-Create markdown and contribution tutorial
+Create markdown and contribuindo tutorial
 
-- Created tutorial/contribution.md file, with a thorough explanation of how this wiki works, how to run it locally and how to change it
+- Created tutorial/contribuindo.md file, with a thorough explanation of how this wiki works, how to run it locally and how to change it
 - Created tutorial/markdown.md with a basic reference to Markdown and more sources
 ```
 
