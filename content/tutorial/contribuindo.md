@@ -16,6 +16,7 @@ Caso seja um aluno de ECI fique basta pedir à algum admin da organização [Gre
 
 - [Markdown]({{< ref "/tutorial/markdown.md" >}})
 - [Tutorial do Git]({{< ref "/tutorial/git.md" >}})
+- [Adicionar chave SSH ao github](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 - [Hugo](https://gohugo.io)
 
 ## Ingredientes
