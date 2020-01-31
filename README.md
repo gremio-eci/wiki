@@ -4,7 +4,7 @@ https://gremio-eci.github.io/wiki/
 
 Essa wiki é colaborativa, de forma que se algo está errado, por favor modifique, e se sinta a vontade para extender artigos e adicionar novos.
 
-É uma wiki estática, gerada a partir do gerador de sites [Hugo](https://gohugo.io/), utilizamos arquivos de sintaxe [Markdown]({{< ref "/tutorial/markdown.md" >}}) para editar os artigos.
+É uma wiki estática, gerada a partir do gerador de sites [Hugo](https://gohugo.io/), utilizamos arquivos de sintaxe [Markdown](https://gremio-eci.github.io/wiki/tutorial/markdown.md) para editar os artigos.
 
 O código fonte (com os conteúdos) se encontra em https://github.com/gremio-eci/wiki
 
@@ -42,7 +42,8 @@ Uma pasta `wiki/` será criada e nela o repositório estará clonado.
 
 ### Modificando conteúdo
 
-Dentro da pasta `wiki/` haverá uma pasta chamada `content/`. Nessa pasta ficam os arquivos [Markdown]({{< ref "/tutorial/markdown.md" >}}), modifique-os a vontade em seu editor de texto favorito (ou IDE).
+Dentro da pasta `wiki/` haverá uma pasta chamada `content/`. Nessa pasta ficam os arquivos [Markdown](https://gremio-eci.github.io/wiki/tutorial/markdown.md
+), modifique-os a vontade em seu editor de texto favorito (ou IDE).
 
 Para criar um arquivo novo digite
 
@@ -103,7 +104,7 @@ Create markdown and contribution tutorial
 
 Antes de dar push é importante saber se existem modificações feitas por outros, idealmente elas seriam obtidas antes de iniciar as modificações, mas nem sempre isso é possível.
 
-É possível utilizar branches para manter seu código lá sem atrapalhar master, quando ainda está incompleto. Isso evita muita dor de cabeça, se sua modificação for extensa e você quiser commitar por favor crie uma nova branch e a utilize até o merge. Para mais informações cheque o tutorial de [Git]({{< ref "/tutorial/git.md" >}})
+É possível utilizar branches para manter seu código lá sem atrapalhar master, quando ainda está incompleto. Isso evita muita dor de cabeça, se sua modificação for extensa e você quiser commitar por favor crie uma nova branch e a utilize até o merge. Para mais informações cheque o tutorial de [Git](https://gremio-eci.github.io/wiki/tutorial/git.md" >}})
 
 `git pull origin master`
 
