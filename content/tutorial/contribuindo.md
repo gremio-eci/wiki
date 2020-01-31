@@ -19,7 +19,7 @@ Caso seja um aluno de ECI fique basta pedir à algum admin da organização [Gre
 - [Adicionar chave SSH ao github](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 - [Hugo](https://gohugo.io)
 
-## Ingredientes
+## Dependências
 
 1. [git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) instalado.
 2. [hugo](https://gohugo.io/getting-started/installing/) instalado
