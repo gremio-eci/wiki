@@ -24,10 +24,8 @@ if (!$?) {
   echo "Hugo failed to run, aborting publishing"
 } else {
   New-Item -ItemType Directory -Force -Path tmp
-  Move-Item -Path * -Destination tmp/
-  Move-Item -Path .* -Destination tmp/
+  Move-Item -Path * -Destination tmp/ -erroraction 'silentlycontinue'
   Move-Item -Path tmp/public/* -Destination .
-  Move-Item -Path tmp/.git -Destination .
   Remove-Item -Path tmp -Recurse
 
   git add -A
