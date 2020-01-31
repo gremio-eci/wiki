@@ -6,24 +6,34 @@ draft: false
 
 Restaurante Universitário
 
-- Custo: 2 reais para estudantes da UFRJ, 8 reais para servidores (embora recebam vale refeição que cobre o valor)
+- Custo: 2 reais para estudantes da UFRJ, 8,75 reais para servidores (embora recebam vale refeição que cobre o valor)
 - Site: https://ru.ufrj.br/index.php/
 - Aplicativos: O aplicativo de cardápio está disponível para Android, iOS e Windows Phone
 - Cardápios: https://ru.ufrj.br/index.php/2014-07-24-00-55-59
 
+Para entrar é necessário demonstrar algum comprovante de que estuda na UFRJ, como a [carteirinha de estudante]({{< ref "/trivia/carteirinha.md" >}}), a CRID ou o comprovante de matrícula.
+
 Os bandejões servem almoço e jantar, os jantares inclusive costumam ser mais saborosos que o almoço, já que são servidos pra menos gente.
 
-Os bandejões trocam toda hora de fornecedor, algumas vezes são gostosos, outras não. Infelizmente nos resta à nós alunos para protestarmos e pressionarmos por uma mudança, quando a situação fica ruim.
+Os bandejões trocam toda hora de fornecedor, algumas vezes são gostosos, outras não. Infelizmente resta à nós alunos para protestarmos e pressionarmos por uma mudança, quando a situação fica ruim.
 
 ## Fundão
 
 Existem 3 bandejões no fundão.
 
-O bandejão central fica ao lado do CCS e da educação física. Ele é o maior dos bandejões (é bem grande), está sempre com uma fila enorme, mas é a fila anda bem rápido.
+O bandejão central fica ao lado do CCS e da educação física. Ele é o maior dos bandejões (é bem grande), está sempre com uma fila enorme, mas é a fila anda bem rápido. Para chegar nele refira à página de [transportes]({{< ref "/trivia/transporte.md" >}}), é possível ir de bicicleta ou de ônibus interno.
 
-Existe também o bandejão de letras, ele é bastante razoável.
+O RU Central funciona dàs 11h às 14h15 e 17h30 às 20h15 em dias úteis e das 12h às 14h e 17h30 às 19h15 nos fins de semana e feriados.
 
-Existe também o bandejão do CT, ele é o menor do fundão, e normalmente (sabemos o quão confiáveis softwares podem ser) opera com sistema de cadastro. Sendo necessário se inscrever todo dia na plataforma escolhendo seu horário. Em período de pouca verba esse é o primeiro bandejão a fechar.
+Existe também o bandejão de letras, ele é bastante razoável. Para chegar nele basta andar do bloco H em direção ao Burguesão, atravessar a rua, entrar no prédio de letras e seguir até o final.
+
+O RU de Letras funciona das 11h15 às 14h15 e 17h30 às 20h15 em dias úteis. Permanece fechado nos fins de semana e feriados, utilize o Central.
+
+Existe também o bandejão do CT, ele é o menor do fundão, e normalmente (sabemos o quão confiáveis softwares podem ser) opera com sistema de cadastro. Sendo necessário se inscrever todo dia na plataforma escolhendo seu horário. Em período de pouca verba esse é o primeiro bandejão a fechar. Ele é do lado do bloco A.
+
+Para agendar pro do CT use https://ru.ct.ufrj.br/ ou o aplicativo de telefone.
+
+O RU do CT funciona das 10h30 às 14h30 e 17h30 às 20h15 em dias úteis. Permanece fechado nos fins de semana e feriados, utilize o Central.
 
 ## IFCS-IH (Instituto de Filosofia, Ciências Sociais e História) e Praia Vermelha
 
@@ -36,6 +46,8 @@ Logo após a praia vermelha obteve o mesmo sistema de quentinhas e eventualmente
 
 De repente os bandejões que eram considerados impossíveis de fazer agora (num agora permanente), supostamente exigindo obras magnânimas, foi resolvido com algumas semanas de ocupação e um plano proposto pelos alunos.
 
+Os RUs do IFCS e da PV funcionam das 11h às 14h15 e 17h30 às 20h nos dias úteis. Não funcionam nos fins de semana.
+
 ## Escola de Música e FND (Faculdade Nacional de Direito)
 
 A escola de música e a FND (escola de direito) não possuem bandejão, mas como são próximas do IFCS os alunos comem por lá.
@@ -43,3 +55,5 @@ A escola de música e a FND (escola de direito) não possuem bandejão, mas como
 ## Xerém
 
 O campus de Xerém tem um bandejão.
+
+Os RUs do IFCS e da PV funcionam das 11h às 14h nos dias úteis. Não funcionam nos fins de semana.
