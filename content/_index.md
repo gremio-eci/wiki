@@ -145,10 +145,10 @@ Código fonte em: https://github.com/gremio-eci/grade
 
 ## 7º Período
 
-- EEL418 - Programação Avançada (4 créditos)
+- [EEL418 - Programação Avançada (4 créditos)]({{< ref "/materia/eel418-programacao-avancada.md" >}})
 - COC472 - Computação de Alto Desempenho (3 créditos)
 - COS470 - Sistemas Distribuidos (4 créditos)
-- COP232 - Gestão do Conhecimento (4 créditos)
+- [COP232 - Gestão do Conhecimento (4 créditos)]({{< ref "/materia/cop232-gestao-do-conhecimento.md" >}})
 - 8 créditos de eletivas
 
 ## 8º Período
