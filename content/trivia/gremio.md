@@ -10,7 +10,7 @@ Direção:
 
 - [Lidiana Souza dos Anjos](https://github.com/LidianaSouza)
 - [Paulo Cabral Sanz](https://github.com/paulocsanz)
-- [Pedro Maciel Xavier](https://github.com/pedromxavier)
+- [Pedro Maciel Xavier](https://pedromxavier.github.io)
 
 Conselho:
 
