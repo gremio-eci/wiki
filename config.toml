@@ -29,3 +29,8 @@ sectionPagesMenu = "main"
    name="Github de ECI"
    url="../git/"
    weight = 300
+
+[[ menu.main ]]
+   name="Tutoriais"
+   url="/tutorial/"
+   weight = 300
