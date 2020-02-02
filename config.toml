@@ -32,5 +32,5 @@ sectionPagesMenu = "main"
 
 [[ menu.main ]]
    name="Tutoriais"
-   url="/tutorial/"
+   url="../wiki/tutorial/"
    weight = 300
