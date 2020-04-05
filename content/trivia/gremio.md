@@ -15,7 +15,7 @@ Direção:
 Conselho:
 
 - [Jonathan Alcantar](https://github.com/JonathanAlcantara/)
-- Guilherme Goldman da Silva
+- [Guilherme Goldman da Silva](#)
 - [Igor Andrade da Rocha](https://github.com/igorrocha)
 
 Representação Discente:
