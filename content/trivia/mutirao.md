@@ -9,7 +9,7 @@ O Grêmio de ECI está organizando entre os dias dd/mm/aa (?-feira) e dd/mm/aa (
 
 ## Linhas de Atuação
 ### Tutoriais
-Se você tá afim de ensinar alguma coisa que você sabe e que pode ajudar os colegas no dia-a-dia ou nas matérias, este é seu lugar. Caso precise de inspiração, dê uma olhada nos [tutoriais](../tutorial) que já existem.
+Se você tá afim de ensinar alguma coisa que você sabe e que pode ajudar os colegas no dia-a-dia ou nas matérias, este é seu lugar. Caso precise de inspiração, dê uma olhada nos [tutoriais](../../tutorial) que já existem.
 ### Professores e Matérias
 Você, veterano sábio e experiente, pode ajudar os próximos alunos escrevendo um pouco sobre o caminho das pedras para levar as matérias com mais tranquilidade.
 ### Design
