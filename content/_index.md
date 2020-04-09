@@ -4,6 +4,8 @@ date: 2020-01-29T01:29:11-03:00
 draft: false
 ---
 
+# [Editatona Wiki 2020]({{< ref "/eventos/editatona.md" >}})
+
 # Wiki de ECI - UFRJ
 
 Engenharia da Computação e Informação - UFRJ
