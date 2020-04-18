@@ -11,7 +11,7 @@ draft = false
 
 Desde o início da gestão trabalhamos para levantar essa wiki. O pontapé foi dado e agora com uma pequena ajuda de cada um conseguimos deixá-la num nível de maturidade para crescer organicamente. E quem sabe futuramente teremos novos mutirões para atualizar a wiki.
 
-No final do mutirão serão distribuidos entre os 10 que mais contribuirem 1 tapa câmera do [Projeto Tor](https://www.torproject.org/), 2 adesivos também do Tor, 1 adesivo da aws, 1 adesivo da minerva esports, 1 adesivo Death Star - Orbital Battle Station. Escolhidos um para cada de acordo com quem mais contribuir.
+No final do mutirão serão distribuidos entre os 6 que mais contribuirem 1 tapa câmera do [Projeto Tor](https://www.torproject.org/), 2 adesivos também do Tor, 1 adesivo da aws, 1 adesivo da minerva esports, 1 adesivo Death Star - Orbital Battle Station. Escolhidos um para cada de acordo com quem mais contribuir.
 
 Cada contribuição deve ser em relação à um tema.
 
