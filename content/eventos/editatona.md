@@ -4,7 +4,7 @@ date = 2020-04-05T17:50:33-03:00
 draft = false
 +++
 
-- Quando: 17 de Abril às 00:00 até 19 de Abril às 23:59
+- Quando: 24 de Abril às 00:00 até 26 de Abril às 23:59
 - Premios: 1 tapa câmera do [Tor](https://www.torproject.org/), 2 adesivos do Tor, 1 adesivo da Aws, 1 adesivo da Minerta E-sports, 1 adesivo Death Star - Orbital Battle Station
 - Onde: https://github.com/gremio-eci/wiki
 - Como: [Tutorial](https://docs.google.com/presentation/d/1bBp3djMY6sMn1qmDTdQqSOXYaCvt2RpSCy_VFP65Ebc/edit?usp=sharing)
@@ -25,7 +25,7 @@ Escreva também no corpo do Pull Request criado para unir suas modificações co
 
 Para mais informações sobre como contribuir foram elaborados slides retratando o processo: [Slides](https://docs.google.com/presentation/d/1bBp3djMY6sMn1qmDTdQqSOXYaCvt2RpSCy_VFP65Ebc/edit?usp=sharing)
 
-Será dada uma aula de git, focada no processo dessa editatona dia 16 de Abril às 19h, fiquem ligados nos grupos do curso.
+Será dada uma aula de git, focada no processo dessa editatona dia 23 de Abril (Quinta Feira) às 19h, fiquem ligados nos grupos do curso.
 
 # Temas
 
@@ -75,7 +75,7 @@ Amiguinho que já fez, essa é a sua hora de mandar todo mundo que te perguntar 
 
 Isso inclui horários de ônibus, bizus do bandejão, bibliotecas, como conseguir uma sala para estudar e qualquer outra coisa que você lembrar ser util no seu dia a dia como estudante.
 
-## Atividades Lúdicas para a Quarentena
+### Atividades Lúdicas para a Quarentena
 
 Sabemos que essa quarentena tem pesado na saúde mental de alguns, é importante trabalhar no ócio. Para isso queremos também listar as atividades sociais na internet que vocês têm feito. Algum yoga virtual coletivo? Um exercício para fazermos em casa. Algum grupo que tem jogado vídeo game todo dia? Aulas de música...
 
