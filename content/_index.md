@@ -4,6 +4,8 @@ date: 2020-01-29T01:29:11-03:00
 draft: false
 ---
 
+# [Editatona Wiki 2020]({{< ref "/eventos/editatona.md" >}})
+
 # Wiki de ECI - UFRJ
 
 Engenharia da Computação e Informação - UFRJ
@@ -14,18 +16,17 @@ Por ter poucas vagas muitos alunos acabam entrando para Engenharia Eletrônica e
 
 ## Mais sobre
 
-Página institucional: http://www.poli.ufrj.br/graduacao_cursos_engenharia_computacao_informacao.php
+- [Página institucional](http://www.poli.ufrj.br/graduacao_cursos_engenharia_computacao_informacao.php)
 
 Podemos ver que o design da página foi feito por algum engenheiro da computação, assim como dessa wiki
 
+## [Grêmio de ECI]({{< ref "/trivia/gremio.md" >}})
 
-# [Grêmio de ECI]({{< ref "/trivia/gremio.md" >}})
+## [Bandejão]({{< ref "/trivia/bandejao.md" >}})
 
-# [Bandejão]({{< ref "/trivia/bandejao.md" >}})
+## [Transportes]({{< ref "/trivia/transporte.md" >}})
 
-# [Transportes]({{< ref "/trivia/transporte.md" >}})
-
-# [Carteirinha]({{< ref "/trivia/carteirinha.md" >}})
+## [Carteirinha]({{< ref "/trivia/carteirinha.md" >}})
 
 # Redes Sociais
 
