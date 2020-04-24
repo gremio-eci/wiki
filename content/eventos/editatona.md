@@ -8,6 +8,7 @@ draft = false
 - Premios: 1 tapa câmera do [Tor](https://www.torproject.org/), 2 adesivos do Tor, 1 adesivo da Aws, 1 adesivo da Minerta E-sports, 1 adesivo Death Star - Orbital Battle Station
 - Onde: https://github.com/gremio-eci/wiki
 - Como: [Tutorial](https://docs.google.com/presentation/d/1bBp3djMY6sMn1qmDTdQqSOXYaCvt2RpSCy_VFP65Ebc/edit?usp=sharing)
+- Vídeo da aula: https://www.youtube.com/watch?v=-YKTIlAQOfM
 
 Desde o início da gestão trabalhamos para levantar essa wiki. O pontapé foi dado e agora com uma pequena ajuda de cada um conseguimos deixá-la num nível de maturidade para crescer organicamente. E quem sabe futuramente teremos novos mutirões para atualizar a wiki.
 
