@@ -7,7 +7,7 @@ draft: false
 ![Foto do Diego](https://www.del.ufrj.br/portal_memberdata/portraits/diego.dutra)
 
 - Site: https://www.del.ufrj.br/equipe/docentes/diego-dutra
-- Email: [diegodutra@poli.ufrj.br](mailto:diegodutra@poli.ufrj.br)
+- Email: diegodutra [arroba] ufrj [ponto] br
 
 ## Matérias
 

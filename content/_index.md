@@ -131,9 +131,9 @@ Código fonte em: https://github.com/gremio-eci/grade
 
 ## 5º Período
 
-- EEL871 - Banco de Dados (4 créditos)
+- [EEL871 - Banco de Dados (4 créditos)]({{< ref "/materia/eel871-banco-de-dados.md" >}})
 - COS351 - Lógica Matemática (4 créditos)
-- COC473 - Álgebra Linear Computacional (4 créditos)
+- [COC473 - Álgebra Linear Computacional (4 créditos)]({{< ref "/materia/coc473-algebra-linear-computacional.md" >}})
 - EEL878 - Redes de Computadores 1 (4 créditos)
 - EEL770 - Sistemas Operacionais (5 créditos)
 - IQG112 - Química Experimental (2 créditos)

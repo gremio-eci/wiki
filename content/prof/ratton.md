@@ -7,7 +7,7 @@ draft: false
 ![Foto do Ratton](https://www.cos.ufrj.br/~daniel/Pic-1.jpg)
 
 - Site: https://www.cos.ufrj.br/~daniel/
-- Email: [daniel.cos.ufrj.br](mailto:daniel.cos.ufrj.br)
+- Email: daniel [arroba] cos [ponto] ufrj [ponto] br
 
 ## Matérias
 
