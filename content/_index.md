@@ -119,9 +119,9 @@ Código fonte em: https://github.com/gremio-eci/grade
 
 ## 4º Período
 
-- COS242 - Teoria dos Grafos (4 créditos)
+- [COS242 - Teoria dos Grafos (4 créditos)]({{< ref "/materia/cos242-teoria-dos-grafos.md" >}})
 - COE241 - Estatísticas e Modelos Probabilísticos (4 créditos)
-- COS471 - Computadores e Sociedade (4 créditos)
+- [COS471 - Computadores e Sociedade (4 créditos)]({{< ref "/materia/cos471-computadores-e-sociedade.md" >}})
 - MAC248 - Cálculo 4 (4 créditos)
 - FIM240 - Física 4 (4 créditos)
 - FIN241 - Física Experimental 4 (1 crédito)
