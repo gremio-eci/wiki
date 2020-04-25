@@ -4,7 +4,7 @@ date: 2020-01-29T01:29:11-03:00
 draft: false
 ---
 
-# [Editatona Wiki 2020]({{< ref "/eventos/editatona.md" >}})
+# [Editatona Wiki 2020 - Está rolando agora, aproveita pra ganhar um sticker!!!!]({{< ref "/eventos/editatona.md" >}})
 
 # Wiki de ECI - UFRJ
 
@@ -27,6 +27,8 @@ Podemos ver que o design da página foi feito por algum engenheiro da computaç�
 ## [Transportes]({{< ref "/trivia/transporte.md" >}})
 
 ## [Carteirinha]({{< ref "/trivia/carteirinha.md" >}})
+
+## [Cursos de Computação Online Recomendados]({{< ref "/tutorial/cursos-recomendados.md" >}})
 
 # Redes Sociais
 
