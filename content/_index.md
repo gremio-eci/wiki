@@ -30,6 +30,8 @@ Podemos ver que o design da página foi feito por algum engenheiro da computaç�
 
 ## [Cursos de Computação Online Recomendados]({{< ref "/tutorial/cursos-recomendados.md" >}})
 
+## [Tutoriais](./tutorial)
+
 # Redes Sociais
 
 Existem alguns grupos em redes sociais que são interessantes de se ter acesso:
