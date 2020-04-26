@@ -103,7 +103,7 @@ Código fonte em: https://github.com/gremio-eci/grade
 
 - EEL670 - Linguagens de Programação (5 créditos)
 - MAE125 - Algebra Linear 2 (4 créditos)
-- EEL480 - Sistemas Digitais (5 créditos)
+- [EEL480 - Sistemas Digitais (5 créditos)]({{< ref "/materia/eel480-sistemas-digitais.md" >}})
 - MAC128 - Cálculo 2 (4 créditos)
 - FIT122 - Física 2 (4 créditos)
 - FIS121 - Física Experimental 2 (1 crédito)
