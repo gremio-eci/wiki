@@ -101,7 +101,7 @@ Código fonte em: https://github.com/gremio-eci/grade
 
 ## 2º Período
 
-- EEL670 - Linguagens de Programação (5 créditos)
+- [EEL670 - Linguagens de Programação (5 créditos)]({{< ref "/materia/eel670-linguagens-de-programacao.md" >}})
 - MAE125 - Algebra Linear 2 (4 créditos)
 - [EEL480 - Sistemas Digitais (5 créditos)]({{< ref "/materia/eel480-sistemas-digitais.md" >}})
 - MAC128 - Cálculo 2 (4 créditos)
