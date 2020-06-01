@@ -17,7 +17,7 @@ pygmentsStyle = "manni"
     name = "Grêmio de ECI"
 
 [params]
-    logo = "logo.jpeg"
+    logo = "logo.png"
 
 sectionPagesMenu = "main"
 [[ menu.main ]]
