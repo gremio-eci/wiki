@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Início on Wiki - Grêmio de ECI</title>
+    <link>https://gremio-eci.github.io/wiki/</link>
+    <description>Recent content in Início on Wiki - Grêmio de ECI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 29 Jan 2020 01:29:11 -0300</lastBuildDate>
+    
+	<atom:link href="https://gremio-eci.github.io/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cursos Recomendados</title>
+      <link>https://gremio-eci.github.io/wiki/tutorial/cursos-recomendados/</link>
+      <pubDate>Fri, 24 Apr 2020 13:16:27 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/tutorial/cursos-recomendados/</guid>
+      <description>Aqui estarão alguns cursos que abrangem diversos temas. No caso de novas adições, respeite a divisão entre Pagos e Livre Acesso. Lembre-se também de evitar o flood, adicionando apenas aqueles que você já fez, ou com boas recomendações de boas fontes. Indique na descrição caso o curso esteja em Inglês.
+Ao se interessar em um dos cursos, tenha em mente que um conteúdo pode ser ótimo para alguém, mas você não necessariamente compartilhará a mesma ideia.</description>
+    </item>
+    
+    <item>
+      <title>Editatona Wiki 2020</title>
+      <link>https://gremio-eci.github.io/wiki/eventos/editatona-2020/</link>
+      <pubDate>Sun, 05 Apr 2020 17:50:33 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/eventos/editatona-2020/</guid>
+      <description>Quando: 24 de Abril às 00:00 até 26 de Abril às 23:59 Premios: 1 tapa câmera do Tor, 2 adesivos do Tor, 1 adesivo da Aws, 1 adesivo da Minerta E-sports, 1 adesivo Death Star - Orbital Battle Station Onde: https://github.com/gremio-eci/wiki Como: Tutorial Vídeo da aula: https://www.youtube.com/watch?v=-YKTIlAQOfM  Desde o início da gestão trabalhamos para levantar essa wiki. O pontapé foi dado e agora com uma pequena ajuda de cada um conseguimos deixá-la num nível de maturidade para crescer organicamente.</description>
+    </item>
+    
+    <item>
+      <title>Cartilha: Como usar o git</title>
+      <link>https://gremio-eci.github.io/wiki/tutorial/git/</link>
+      <pubDate>Thu, 30 Jan 2020 12:48:29 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/tutorial/git/</guid>
+      <description>Slides: Tutorial Video-aula: https://www.youtube.com/watch?v=-YKTIlAQOfM  Ingredientes  git instalado e configurado.  Clonando um Repositório  Comece clonando o repositório da wiki do Grêmio:  git clone https://github.com/gremio-eci/wiki   Entre na pasta do repositório e instale Hugo
+ Modifique algum arquivo e teste
+  No linux rode:
+./local.sh  No windows rode:
+./Local.ps1  Abrirá a página da wiki servida localmente (aperte f5 se der falha na conexão).</description>
+    </item>
+    
+    <item>
+      <title>Contribuindo</title>
+      <link>https://gremio-eci.github.io/wiki/tutorial/contribuindo/</link>
+      <pubDate>Thu, 30 Jan 2020 12:48:29 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/tutorial/contribuindo/</guid>
+      <description>Essa wiki é colaborativa, de forma que se algo está errado, por favor modifique, e se sinta a vontade para extender artigos e adicionar novos.
+É uma wiki estática, gerada a partir do gerador de sites Hugo, utilizamos arquivos de sintaxe Markdown para editar os artigos.
+O código fonte (com os conteúdos) se encontra em https://github.com/gremio-eci/wiki
+Caso seja um aluno de ECI fique basta pedir à algum admin da organização Gremio ECI para te adicionar como membro.</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://gremio-eci.github.io/wiki/tutorial/markdown/</link>
+      <pubDate>Thu, 30 Jan 2020 12:48:29 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/tutorial/markdown/</guid>
+      <description>Referência: https://www.markdownguide.org Editor Online: https://dillinger.io/  Markdown é uma linguagem de marcação, usada para converter texto em HTML. Torna muito simples a formatação de texto graficamente.
+Existem muitas features padrões do Markdown, mas existem também muitas extensões, é importante conhecer ele de forma geral, como na referência disponível acima. Mas também é fundamental saber as extensões que a implementação usada disponibiliza.
+Por exemplo, essa wiki é colaborada com arquivos Markdown, porém contém diversas extensões providenciadas pelo gerador do html final, Hugo</description>
+    </item>
+    
+    <item>
+      <title>Manual de compras de Circuitos Integrados</title>
+      <link>https://gremio-eci.github.io/wiki/tutorial/comprando_ci/</link>
+      <pubDate>Thu, 30 Jan 2020 00:12:00 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/tutorial/comprando_ci/</guid>
+      <description>Ingredientes Para essa receita você vai precisar de: - Dinheiro, infelizmente
+Modo de Preparo  Pergunte ao professor, logo no começo das aulas, sobre os materiais necessários. Se é que existe alguém que sabe quais serão, é ele. Prepare uma lista com os materiais necessários e vá até a Rua República do Líbano, no Centro. Um jeito fácil de chegar lá é pegando a Linha 3 do VLT Carioca e saltando na estação Saara.</description>
+    </item>
+    
+    <item>
+      <title>Bandejão</title>
+      <link>https://gremio-eci.github.io/wiki/trivia/bandejao/</link>
+      <pubDate>Wed, 29 Jan 2020 19:05:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/trivia/bandejao/</guid>
+      <description>Restaurante Universitário
+ Custo: 2 reais para estudantes da UFRJ, 8,75 reais para servidores (embora recebam vale refeição que cobre o valor) Site: https://ru.ufrj.br/index.php/ Aplicativos: O aplicativo de cardápio está disponível para Android, iOS e Windows Phone Cardápios: https://ru.ufrj.br/index.php/2014-07-24-00-55-59  Para entrar é necessário demonstrar algum comprovante de que estuda na UFRJ, como a carteirinha de estudante, a CRID ou o comprovante de matrícula.
+Os bandejões servem almoço e jantar, os jantares inclusive costumam ser mais saborosos que o almoço, já que são servidos pra menos gente.</description>
+    </item>
+    
+    <item>
+      <title>Carteirinha de Estudante</title>
+      <link>https://gremio-eci.github.io/wiki/trivia/carteirinha/</link>
+      <pubDate>Wed, 29 Jan 2020 19:05:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/trivia/carteirinha/</guid>
+      <description>Existe a carteirinha virtual, disponível no aplicativo do SIGA para todos os alunos da UFRJ.
+Além dessa elas podem ser emitidas pela UNE por 35 reais + frete.
+O CAENG (Centro Acadêmico de Engenharia) também costuma emitir anualmente para alunos das engenharias que representa. Para mais informações consulte o CAENG.</description>
+    </item>
+    
+    <item>
+      <title>Transporte</title>
+      <link>https://gremio-eci.github.io/wiki/trivia/transporte/</link>
+      <pubDate>Wed, 29 Jan 2020 19:05:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/trivia/transporte/</guid>
+      <description>Veículos elétricos e Bikes no fundão Site: http://www.integraufrj.com.br/
+O uso das bicicletas pelo fundão é gratúito, são permitidas corridas de até 45 minutos, com intervalos mínimos de 15 minutos entre corrídas. Caso contrário, para cada 30 minutos ultrapassados dos 45 minutos será gerado um bloqueio de 24 horas para sua conta.
+O uso dos carros elétricos pelo fundão também é gratuito, onde é necessário previamente cadastrar sua carteira de habilitação.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Montando uma protoboard boladona</title>
+      <link>https://gremio-eci.github.io/wiki/tutorial/protoboard/</link>
+      <pubDate>Wed, 29 Jan 2020 18:56:12 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/tutorial/protoboard/</guid>
+      <description>Ingredientes Para essa receita você vai precisar de: 1. 3 Protoboards de 830 pontos 2. Um cabo USB velho (pode ser muito velho também, não tem problema) 3. Fita isolante 4. Jumpers, cabos ou fios metálicos finos. 5. Tesoura
+E se tiver, mas não precisa: 1. Solda e ferro de solda 2. Uma pinça
+Sobre a protoboard Esse modelo de protoboard normalmente vem com engates laterais que permitem acoplar uma placa na outra.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Ratton Figueiredo</title>
+      <link>https://gremio-eci.github.io/wiki/prof/ratton/</link>
+      <pubDate>Wed, 29 Jan 2020 18:14:36 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/ratton/</guid>
+      <description>  Site: https://www.cos.ufrj.br/~daniel/ Email: daniel [arroba] cos [ponto] ufrj [ponto] br  Matérias  COS242 - Teoria dos Grafos (4 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Diego Leonel Cadette Dutra</title>
+      <link>https://gremio-eci.github.io/wiki/prof/diego/</link>
+      <pubDate>Wed, 29 Jan 2020 18:14:36 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/diego/</guid>
+      <description>  Site: https://www.del.ufrj.br/equipe/docentes/diego-dutra Email: diegodutra [arroba] ufrj [ponto] br  Matérias  EEL280 - Circuitos Lógicos (5 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Fálvio de Mello</title>
+      <link>https://gremio-eci.github.io/wiki/prof/flavio/</link>
+      <pubDate>Wed, 29 Jan 2020 18:14:36 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/flavio/</guid>
+      <description>  Site: http://www.im2c.poli.ufrj.br/members/fmello/member.html Email: fmello [arroba] poli [ponto] ufrj [ponto] br  Matérias  EEL670 - Linguagens de Programação (5 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Luís Volnei Sudati Sagrilo</title>
+      <link>https://gremio-eci.github.io/wiki/prof/sagrilo/</link>
+      <pubDate>Wed, 29 Jan 2020 18:14:36 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/sagrilo/</guid>
+      <description> Matérias  COC473 - Algebra Linear Computacional (4 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Marco do Couto Bezerra Cavalcanti</title>
+      <link>https://gremio-eci.github.io/wiki/prof/cavalcanti/</link>
+      <pubDate>Wed, 29 Jan 2020 18:14:36 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/cavalcanti/</guid>
+      <description> Matérias  COP232 - Gestão do Conhecimento (4 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Sérgio Palma</title>
+      <link>https://gremio-eci.github.io/wiki/prof/palma/</link>
+      <pubDate>Wed, 29 Jan 2020 18:14:36 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/palma/</guid>
+      <description> Ele não lê e-mails. Sério, ele nunca responde a nada, nem na quarentena.
+Reprova por faltas
+Matérias  EEL871 - Banco de Dados (4 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Claudio Esperança</title>
+      <link>https://gremio-eci.github.io/wiki/prof/esperanca/</link>
+      <pubDate>Wed, 29 Jan 2020 02:56:12 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/esperanca/</guid>
+      <description>  Site: https://www.cos.ufrj.br/index.php/pt-BR/pessoas/details/18/1006-esperanc Email: esperanc@cos.ufrj.br  Matérias  COS110 - Algoritmos e Programação (5 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Edilberto Strauss</title>
+      <link>https://gremio-eci.github.io/wiki/prof/strauss/</link>
+      <pubDate>Wed, 29 Jan 2020 02:56:12 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/strauss/</guid>
+      <description> Diretor de Ensino e Extensão
+ Email: strauss@poli.ufrj.br  Matérias  COS231 - Estruturas de Dados (5 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Heraldo Luís Silvera de Almeida</title>
+      <link>https://gremio-eci.github.io/wiki/prof/heraldo/</link>
+      <pubDate>Wed, 29 Jan 2020 02:56:12 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/heraldo/</guid>
+      <description>  Site: http://www.del.ufrj.br/~heraldo Email: heraldo@ufrj.br  Matérias  EEL470 - Algoritmos e Estruturas de Dados (5 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Jorge Leão</title>
+      <link>https://gremio-eci.github.io/wiki/prof/leao/</link>
+      <pubDate>Wed, 29 Jan 2020 02:56:12 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/prof/leao/</guid>
+      <description>  Site: https://jorgeleao.github.io/ Email: jorge.leao@ufrj.br  Matérias  EEL418 - Programação Avançada (4 créditos)  </description>
+    </item>
+    
+    <item>
+      <title>Algebra Linear Computacional</title>
+      <link>https://gremio-eci.github.io/wiki/materia/coc473-algebra-linear-computacional/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/coc473-algebra-linear-computacional/</guid>
+      <description>Código: COC473 Créditos: 4 Professor: Sagrilo  A matéria cobra listas e provas. As listas são implementações dos métodos computacionais pra algebra linear. Ela traz o conceito de programar as primitivas de algebra linear. Então é necessário entender sobre algebra linear e traduzir a matemática pra programação.
+Os slides dele explicam bem como traduzir as primitivas pro computador. Mas ele usa fortran, então você provavelmente vai ter que traduzir. A matéria não é fácil porque depende de algebra linear, mas não é difícil.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos e Estruturas de Dados</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel470-algoritmos-e-estruturas-de-dados/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel470-algoritmos-e-estruturas-de-dados/</guid>
+      <description>Código: EEL470 Créditos: 5 Professor: Heraldo Site da matéria: http://www.del.ufrj.br/~heraldo/eel470.html Equivalente: COS231 - Estruturas de Dados - Edilberto Strauss Máximo de Faltas: ∞  É uma matéria que nem sempre abre, portanto as pessoas tendem pra equivalente.
+Essa matéria não tem sido dada há um bom tempo, no geral é necessário esperar pela do Strauss
+Conteúdo  Básico de programação Complexidade assintótica e análise assintótica (Grande O) Recursão Estruturas de dados (lista, pilha, fila) encadeadas ou sequenciais Árvores Binárias e balanceadas Tabela de Dispersão (Hashtables)  É bastante introdutória, então se você não sabe nada de programação: não tema.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos e Programacao</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos110-algoritmos-e-programacao/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos110-algoritmos-e-programacao/</guid>
+      <description>Código: COS110 Créditos: 5 Professor: Esperança Em casos de transferência é comum obter equivalência dessa matéria com &amp;ldquo;Computação 1&amp;rdquo;, porém não costuma equivaler se feita já em ECI.  É uma matéria bastante introdutória, apresenta o conceito de linguagens de programação e tenta criar uma normalidade com os termos e a usabilidade. Geralmente ensina python.
+Aprender programação tem muito a ver com usar de fato as linguagens, então não se contente com ver o código ou a aula.</description>
+    </item>
+    
+    <item>
+      <title>Banco de Dados</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel871-banco-de-dados/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel871-banco-de-dados/</guid>
+      <description>Código: EEL871 Créditos: 4 Professor: Palma  O Palma gosta de falar. De contar histórias da vida dele (tem umas bem engraçadas) que envolvem computação. E reprova por falta.
+Você não vai aprender tanto na aula dele, mas ele passa vários trabalhos pequenos ao longo do período. Alguns bem nada a ver, tipo fazer word-cloud de alguma coisa. Outros como instalar um serviço de banco de dados (MSSQLServer no Windows).</description>
+    </item>
+    
+    <item>
+      <title>Centro Acadêmico de Engenharia - CAENG</title>
+      <link>https://gremio-eci.github.io/wiki/trivia/caeng/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/trivia/caeng/</guid>
+      <description>O CAENG é a entidade representativa que representa a maior parte dos alunos de engenharia. Totalizando mais de 5000 alunos. As engenharias da escola de química são porém representadas pelo Diretório Acadêmico da Escola de Química.
+O CAENG por representar a todas tem um grande papel de resolver os problemas mais genéricos de todas as engenharias, como permanência estudantil na Engenharia, saúde mental, assédio docente, unificadas, estágios, carteirinhas e outros problemas mais gerais.</description>
+    </item>
+    
+    <item>
+      <title>Circuitos Lógicos</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel280-circuitos-logicos/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel280-circuitos-logicos/</guid>
+      <description>Código: EEL280 Créditos: 5 Site: https://www.compasso.ufrj.br/disciplinas/eel280 Máximo de Faltas: Não falte, é difícil à rodo Professor: Diego Dutra  É uma matéria bastante difícil, requer atenção e presença nas aulas. Mas é muito interessante. É uma das poucas matérias de eletrônica que temos, mas é fundamental para nossa formação.
+Ensina como portas lógicas podem desenvolver matemática e outros circúitos mais complexos e dinâmicos.
+É uma das poucas matérias que exigem material e existe um custo inicial.</description>
+    </item>
+    
+    <item>
+      <title>Computadores e Sociedade</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos471-computadores-e-sociedade/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos471-computadores-e-sociedade/</guid>
+      <description>Código: COS472 Créditos: 4 Professor: Henrique Cukierman e Fernando Severo  Essa matéria é fundamental pra formação de um Engenheiro da Computação e Informação.
+No nosso curso é muito fácil nos amarrarmos a soluções técnicas. Mas temos uma responsabilidade como engenheiros, e como pessoas, de entender como essa técnica é utilizada, a quem elas afetam. Entender os fins para os quais produzimos e os dilemas éticos que muitas vezes encararemos.</description>
+    </item>
+    
+    <item>
+      <title>Cálculo 1</title>
+      <link>https://gremio-eci.github.io/wiki/materia/mac118-calculo-1/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/mac118-calculo-1/</guid>
+      <description>Código: MAC118 Créditos: 6 Site: http://www.im.ufrj.br/calculo1/ Professor: Matéria unificada Máximo de faltas: 7, mas nem todos os professores cobram presença  Por ser uma matéria unificada muitos professores estão disponíveis. O Jair costuma ser o mais procurado de forma que muitos assistem às suas aulas mesmo sem estarem inscritos, embora muitas vezes suas aulas lotem e ele acabe por proibir não inscritos.
+A maior dica para o cálculo é realizar muitos exercícios para pegar as manhas de cada operação.</description>
+    </item>
+    
+    <item>
+      <title>Estruturas de Dados</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos231-estruturas-de-dados/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos231-estruturas-de-dados/</guid>
+      <description>Código: COS231 Créditos: 5 Professor: Strauss Requisitos: Álgebra Linear 2 Equivalente: EEL470 - Algoritmos e Estruturas de Dados - Heraldo  Conteúdo  Básico de programação Complexidade assintótica e análise assintótica (Grande O) Recursão Estruturas de dados (lista, pilha, fila) encadeadas ou sequenciais Árvores Binárias e balanceadas Tabela de Dispersão (Hashtables)  É bastante introdutória, então se você não sabe nada de programação: não tema.</description>
+    </item>
+    
+    <item>
+      <title>Fìsica 1</title>
+      <link>https://gremio-eci.github.io/wiki/materia/fit112-fisica-1/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/fit112-fisica-1/</guid>
+      <description>Código: FIT112 Créditos: 4 Site: https://fisica1.if.ufrj.br/ Professor: Unificada Máximo de Faltas: 7 (veteranos podem puxar semi-presencial)  Descrição oficial: Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).
+Sempre tem presença, portanto vá às aulas.</description>
+    </item>
+    
+    <item>
+      <title>Fìsica Experimental 1</title>
+      <link>https://gremio-eci.github.io/wiki/materia/fis111-fisica-experimental-1/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/fis111-fisica-experimental-1/</guid>
+      <description>Código: FIS111 Créditos: 1 Site: https://fisexp1.if.ufrj.br/ Professor: Unificada Máximo de Faltas: 3, vá às aulas  Vá às aulas, entregue os pré-relatórios todo início de cada aula e entregue os relatórios no final de cada aula. Estude para as provas revisitando os experimentos na apostila e como fazer. É uma matéria bem tranquila, mas muita gente se ferra por não seguir esses 3 pontos básicos.
+É uma matéria feita pra ser chata.</description>
+    </item>
+    
+    <item>
+      <title>Gestão da Inovação</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cop503-gestao-da-inovacao/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cop503-gestao-da-inovacao/</guid>
+      <description>Código: COP503 Créditos: 4 Professor: Cavalcanti  Essa matéria é bem zoada também. O Cavalcanti provavelmente vai faltar mais que você. Mas pode ser bastante interessante e existe uma imersão em contextos fora da universidade.
+É bastante motivada por inovação, então provavelmente terá um projeto de sua escolha a ser desenvolvido.
+Tiveram períodos em que todos os projetos foram apresentados para o ministério público por exemplo. O Cavalcanti é bastante influente.</description>
+    </item>
+    
+    <item>
+      <title>Gestão do Conhecimento</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cop232-gestao-do-conhecimento/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cop232-gestao-do-conhecimento/</guid>
+      <description>Código: COP232 Créditos: 4 Professor: Cavalcanti  Essa matéria é bem zoada também. O Cavalcanti provavelmente vai faltar mais que você. Mas pode ser bastante interessante e existe uma imersão em contextos fora da universidade.
+É bastante motivada por inovação, então provavelmente terá um projeto de sua escolha a ser desenvolvido.
+Tiveram períodos em que todos os projetos foram apresentados para o ministério público por exemplo. O Cavalcanti é bastante influente.</description>
+    </item>
+    
+    <item>
+      <title>Grêmio de ECI</title>
+      <link>https://gremio-eci.github.io/wiki/trivia/gremio/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/trivia/gremio/</guid>
+      <description>Estatuto do Grêmio
+Direção:
+ Lidiana Souza dos Anjos Paulo Cabral Sanz Pedro Maciel Xavier  Conselho:
+ Jonathan Alcantar Guilherme Goldman da Silva Igor Andrade da Rocha  Representação Discente:
+ Igor Andrade da Rocha  O grêmio é aberto, por favor não se contentem com esses nomes da lista e se integrem a ele, sempre existe muita coisa a se fazer e quando mais gente organizada e fazendo por sí só mais capacidade.</description>
+    </item>
+    
+    <item>
+      <title>Introdução à Engenharia da Computação e Informação</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos111-intro-eng-de-comput-e-info/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos111-intro-eng-de-comput-e-info/</guid>
+      <description>Código: COS111 Créditos: 2  É uma matéria que existe mais para integrar os calouros e mostrar à eles o que o curso tem para oferecer. Só vai que você vai passar.</description>
+    </item>
+    
+    <item>
+      <title>Linguagens de Programação</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel670-linguagens-de-programacao/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel670-linguagens-de-programacao/</guid>
+      <description>Código: EEL670 Créditos: 5 Professor: Fálvio Mello Site da matéria: http://www.im2c.poli.ufrj.br/members/fmello/lingprog.html Máximo de Faltas: ∞  Disciplina obrigatória do 2º período, abre todo período par. Não tem prova, apenas exercícios semanais avaliados de 0 à 10. No final do curso sua nota será a média de todos os trabalhos.
+A matéria apresenta os conceitos básicos sobre linguagens de programação, algumas linguagens e aspectos gerais de cada paradigma. Não é necessário saber programar previamente.</description>
+    </item>
+    
+    <item>
+      <title>Matéria Unificada</title>
+      <link>https://gremio-eci.github.io/wiki/trivia/unificada/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/trivia/unificada/</guid>
+      <description>Uma matéria unificada é uma materia que não é de uma engenharia especifica, mas que serve para todas. Normalmente é dada pelo IM (cálculos/algebra linear) ou IF (físicas). Isso significa que terão muitas salas com diferentes professores, tendo o mesmo código, embora existam salas específicas para algum curso, você pode escolher qualquer uma. São providenciadas em multiplos horários.
+As provas unificadas são realizadas para todas as engenharias ao mesmo tempo, de forma que ocorrem as 17h e costumam ocupar diversos blocos inteiros, preste bem atenção nas informações dadas nos sites dessas matérias (como regras, horário e sua sala).</description>
+    </item>
+    
+    <item>
+      <title>Programação Avançada</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel418-programacao-avancada/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel418-programacao-avancada/</guid>
+      <description>Código: EEL418 Créditos: 4 Professor: Leão Site: https://jorgeleao.github.io/eel418/index.html  Essa matéria é bem zoada. De avançada não tem nada.
+1&amp;frasl;3 do período vai ser gasto ensinando a usar NetBeans.
+Apresenta vários dos conceitos de servidores web, demonstra como montar um básico, explora o sistema de threading para possibilitar requests concorrentes e paralelos. Apresenta os protocolos e ensina a usar Tomcat (servidor de java).
+Ensina a integrar com bancos de dados SQL (postgreSQL) e os utilizar em suas aplicações.</description>
+    </item>
+    
+    <item>
+      <title>SAIR</title>
+      <link>https://gremio-eci.github.io/wiki/trivia/sair/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/trivia/sair/</guid>
+      <description>Foi uma poli-fight (uma longa discussão na lista de e-mails) e terminou com um estudante enviando
+&amp;ldquo;Para sair dessa lista envie SAIR&amp;rdquo;
+Terminando com centenas de mensagens na caixa de entrada de todos os estudantes da Poli com inúmeros alunos enviando &amp;ldquo;SAIR&amp;rdquo;.
+Volta e meia um espertinho ou outro envia SAIR para a lista.
+Desde então o envio para todos da lista foi bastante limitado.</description>
+    </item>
+    
+    <item>
+      <title>Sistemas Digitais</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel480-sistemas-digitais/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel480-sistemas-digitais/</guid>
+      <description>Código: EEL480 Créditos: 5 Professor: José Paulo Braffman  Essa matéria é sensacional. É bem dificil, mas é da natureza do conteúdo. Ensina muita coisa, focando nos pilares do hardware (mais da parte digital que eletrônica).
+Chegue na hora e não falte, essa matéria é difícil e se perder uma aula fica confusa, será difícil de correr atrás (dá, mas não torne um costume). É uma das poucas matérias que não da pra ficar faltando (ou chegando atrasado).</description>
+    </item>
+    
+    <item>
+      <title>Teoria dos Grafos</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos242-teoria-dos-grafos/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos242-teoria-dos-grafos/</guid>
+      <description>Código: COS242 Site: https://www.cos.ufrj.br/~daniel/grafos/ Créditos: 4 Professor: Ratton  Essa é uma das matérias mais importantes do curso e o Ratton é um puta professor.
+Ela da um pouco de trabalho, porque o Ratton adora passar dever, e ele fica perguntando tudo pros alunos durante a aula. E por isso mesmo você vai aprender muito nela.
+A aula foca nos pilares de algoritmos para lidar com informação (nosso curso tem Informação no nome, dados meio que são a parada).</description>
+    </item>
+    
+  </channel>
+</rss>

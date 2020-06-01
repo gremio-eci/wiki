@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventos on Wiki - Grêmio de ECI</title>
+    <link>https://gremio-eci.github.io/wiki/eventos/</link>
+    <description>Recent content in Eventos on Wiki - Grêmio de ECI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 05 Apr 2020 17:50:33 -0300</lastBuildDate>
+    
+	<atom:link href="https://gremio-eci.github.io/wiki/eventos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Editatona Wiki 2020</title>
+      <link>https://gremio-eci.github.io/wiki/eventos/editatona-2020/</link>
+      <pubDate>Sun, 05 Apr 2020 17:50:33 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/eventos/editatona-2020/</guid>
+      <description>Quando: 24 de Abril às 00:00 até 26 de Abril às 23:59 Premios: 1 tapa câmera do Tor, 2 adesivos do Tor, 1 adesivo da Aws, 1 adesivo da Minerta E-sports, 1 adesivo Death Star - Orbital Battle Station Onde: https://github.com/gremio-eci/wiki Como: Tutorial Vídeo da aula: https://www.youtube.com/watch?v=-YKTIlAQOfM  Desde o início da gestão trabalhamos para levantar essa wiki. O pontapé foi dado e agora com uma pequena ajuda de cada um conseguimos deixá-la num nível de maturidade para crescer organicamente.</description>
+    </item>
+    
+  </channel>
+</rss>

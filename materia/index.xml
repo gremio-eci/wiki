@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materia on Wiki - Grêmio de ECI</title>
+    <link>https://gremio-eci.github.io/wiki/materia/</link>
+    <description>Recent content in Materia on Wiki - Grêmio de ECI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 29 Jan 2020 01:29:11 -0300</lastBuildDate>
+    
+	<atom:link href="https://gremio-eci.github.io/wiki/materia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algebra Linear Computacional</title>
+      <link>https://gremio-eci.github.io/wiki/materia/coc473-algebra-linear-computacional/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/coc473-algebra-linear-computacional/</guid>
+      <description>Código: COC473 Créditos: 4 Professor: Sagrilo  A matéria cobra listas e provas. As listas são implementações dos métodos computacionais pra algebra linear. Ela traz o conceito de programar as primitivas de algebra linear. Então é necessário entender sobre algebra linear e traduzir a matemática pra programação.
+Os slides dele explicam bem como traduzir as primitivas pro computador. Mas ele usa fortran, então você provavelmente vai ter que traduzir. A matéria não é fácil porque depende de algebra linear, mas não é difícil.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos e Estruturas de Dados</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel470-algoritmos-e-estruturas-de-dados/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel470-algoritmos-e-estruturas-de-dados/</guid>
+      <description>Código: EEL470 Créditos: 5 Professor: Heraldo Site da matéria: http://www.del.ufrj.br/~heraldo/eel470.html Equivalente: COS231 - Estruturas de Dados - Edilberto Strauss Máximo de Faltas: ∞  É uma matéria que nem sempre abre, portanto as pessoas tendem pra equivalente.
+Essa matéria não tem sido dada há um bom tempo, no geral é necessário esperar pela do Strauss
+Conteúdo  Básico de programação Complexidade assintótica e análise assintótica (Grande O) Recursão Estruturas de dados (lista, pilha, fila) encadeadas ou sequenciais Árvores Binárias e balanceadas Tabela de Dispersão (Hashtables)  É bastante introdutória, então se você não sabe nada de programação: não tema.</description>
+    </item>
+    
+    <item>
+      <title>Algoritmos e Programacao</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos110-algoritmos-e-programacao/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos110-algoritmos-e-programacao/</guid>
+      <description>Código: COS110 Créditos: 5 Professor: Esperança Em casos de transferência é comum obter equivalência dessa matéria com &amp;ldquo;Computação 1&amp;rdquo;, porém não costuma equivaler se feita já em ECI.  É uma matéria bastante introdutória, apresenta o conceito de linguagens de programação e tenta criar uma normalidade com os termos e a usabilidade. Geralmente ensina python.
+Aprender programação tem muito a ver com usar de fato as linguagens, então não se contente com ver o código ou a aula.</description>
+    </item>
+    
+    <item>
+      <title>Banco de Dados</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel871-banco-de-dados/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel871-banco-de-dados/</guid>
+      <description>Código: EEL871 Créditos: 4 Professor: Palma  O Palma gosta de falar. De contar histórias da vida dele (tem umas bem engraçadas) que envolvem computação. E reprova por falta.
+Você não vai aprender tanto na aula dele, mas ele passa vários trabalhos pequenos ao longo do período. Alguns bem nada a ver, tipo fazer word-cloud de alguma coisa. Outros como instalar um serviço de banco de dados (MSSQLServer no Windows).</description>
+    </item>
+    
+    <item>
+      <title>Circuitos Lógicos</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel280-circuitos-logicos/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel280-circuitos-logicos/</guid>
+      <description>Código: EEL280 Créditos: 5 Site: https://www.compasso.ufrj.br/disciplinas/eel280 Máximo de Faltas: Não falte, é difícil à rodo Professor: Diego Dutra  É uma matéria bastante difícil, requer atenção e presença nas aulas. Mas é muito interessante. É uma das poucas matérias de eletrônica que temos, mas é fundamental para nossa formação.
+Ensina como portas lógicas podem desenvolver matemática e outros circúitos mais complexos e dinâmicos.
+É uma das poucas matérias que exigem material e existe um custo inicial.</description>
+    </item>
+    
+    <item>
+      <title>Computadores e Sociedade</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos471-computadores-e-sociedade/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos471-computadores-e-sociedade/</guid>
+      <description>Código: COS472 Créditos: 4 Professor: Henrique Cukierman e Fernando Severo  Essa matéria é fundamental pra formação de um Engenheiro da Computação e Informação.
+No nosso curso é muito fácil nos amarrarmos a soluções técnicas. Mas temos uma responsabilidade como engenheiros, e como pessoas, de entender como essa técnica é utilizada, a quem elas afetam. Entender os fins para os quais produzimos e os dilemas éticos que muitas vezes encararemos.</description>
+    </item>
+    
+    <item>
+      <title>Cálculo 1</title>
+      <link>https://gremio-eci.github.io/wiki/materia/mac118-calculo-1/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/mac118-calculo-1/</guid>
+      <description>Código: MAC118 Créditos: 6 Site: http://www.im.ufrj.br/calculo1/ Professor: Matéria unificada Máximo de faltas: 7, mas nem todos os professores cobram presença  Por ser uma matéria unificada muitos professores estão disponíveis. O Jair costuma ser o mais procurado de forma que muitos assistem às suas aulas mesmo sem estarem inscritos, embora muitas vezes suas aulas lotem e ele acabe por proibir não inscritos.
+A maior dica para o cálculo é realizar muitos exercícios para pegar as manhas de cada operação.</description>
+    </item>
+    
+    <item>
+      <title>Estruturas de Dados</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos231-estruturas-de-dados/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos231-estruturas-de-dados/</guid>
+      <description>Código: COS231 Créditos: 5 Professor: Strauss Requisitos: Álgebra Linear 2 Equivalente: EEL470 - Algoritmos e Estruturas de Dados - Heraldo  Conteúdo  Básico de programação Complexidade assintótica e análise assintótica (Grande O) Recursão Estruturas de dados (lista, pilha, fila) encadeadas ou sequenciais Árvores Binárias e balanceadas Tabela de Dispersão (Hashtables)  É bastante introdutória, então se você não sabe nada de programação: não tema.</description>
+    </item>
+    
+    <item>
+      <title>Fìsica 1</title>
+      <link>https://gremio-eci.github.io/wiki/materia/fit112-fisica-1/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/fit112-fisica-1/</guid>
+      <description>Código: FIT112 Créditos: 4 Site: https://fisica1.if.ufrj.br/ Professor: Unificada Máximo de Faltas: 7 (veteranos podem puxar semi-presencial)  Descrição oficial: Introdução. Vetores. Velocidade e aceleração vetoriais. Os princípios da dinâmica. Aplicações das leis de Newton. Trabalho e energia mecânica. Conservação da energia. Momento linear e conservação do momento linear. Colisões. Rotação e momento angular. Dinâmica de corpos rígidos. Força que varia inversamente ao quadrado da distancia (gravitação).
+Sempre tem presença, portanto vá às aulas.</description>
+    </item>
+    
+    <item>
+      <title>Fìsica Experimental 1</title>
+      <link>https://gremio-eci.github.io/wiki/materia/fis111-fisica-experimental-1/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/fis111-fisica-experimental-1/</guid>
+      <description>Código: FIS111 Créditos: 1 Site: https://fisexp1.if.ufrj.br/ Professor: Unificada Máximo de Faltas: 3, vá às aulas  Vá às aulas, entregue os pré-relatórios todo início de cada aula e entregue os relatórios no final de cada aula. Estude para as provas revisitando os experimentos na apostila e como fazer. É uma matéria bem tranquila, mas muita gente se ferra por não seguir esses 3 pontos básicos.
+É uma matéria feita pra ser chata.</description>
+    </item>
+    
+    <item>
+      <title>Gestão da Inovação</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cop503-gestao-da-inovacao/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cop503-gestao-da-inovacao/</guid>
+      <description>Código: COP503 Créditos: 4 Professor: Cavalcanti  Essa matéria é bem zoada também. O Cavalcanti provavelmente vai faltar mais que você. Mas pode ser bastante interessante e existe uma imersão em contextos fora da universidade.
+É bastante motivada por inovação, então provavelmente terá um projeto de sua escolha a ser desenvolvido.
+Tiveram períodos em que todos os projetos foram apresentados para o ministério público por exemplo. O Cavalcanti é bastante influente.</description>
+    </item>
+    
+    <item>
+      <title>Gestão do Conhecimento</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cop232-gestao-do-conhecimento/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cop232-gestao-do-conhecimento/</guid>
+      <description>Código: COP232 Créditos: 4 Professor: Cavalcanti  Essa matéria é bem zoada também. O Cavalcanti provavelmente vai faltar mais que você. Mas pode ser bastante interessante e existe uma imersão em contextos fora da universidade.
+É bastante motivada por inovação, então provavelmente terá um projeto de sua escolha a ser desenvolvido.
+Tiveram períodos em que todos os projetos foram apresentados para o ministério público por exemplo. O Cavalcanti é bastante influente.</description>
+    </item>
+    
+    <item>
+      <title>Introdução à Engenharia da Computação e Informação</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos111-intro-eng-de-comput-e-info/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos111-intro-eng-de-comput-e-info/</guid>
+      <description>Código: COS111 Créditos: 2  É uma matéria que existe mais para integrar os calouros e mostrar à eles o que o curso tem para oferecer. Só vai que você vai passar.</description>
+    </item>
+    
+    <item>
+      <title>Linguagens de Programação</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel670-linguagens-de-programacao/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel670-linguagens-de-programacao/</guid>
+      <description>Código: EEL670 Créditos: 5 Professor: Fálvio Mello Site da matéria: http://www.im2c.poli.ufrj.br/members/fmello/lingprog.html Máximo de Faltas: ∞  Disciplina obrigatória do 2º período, abre todo período par. Não tem prova, apenas exercícios semanais avaliados de 0 à 10. No final do curso sua nota será a média de todos os trabalhos.
+A matéria apresenta os conceitos básicos sobre linguagens de programação, algumas linguagens e aspectos gerais de cada paradigma. Não é necessário saber programar previamente.</description>
+    </item>
+    
+    <item>
+      <title>Programação Avançada</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel418-programacao-avancada/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel418-programacao-avancada/</guid>
+      <description>Código: EEL418 Créditos: 4 Professor: Leão Site: https://jorgeleao.github.io/eel418/index.html  Essa matéria é bem zoada. De avançada não tem nada.
+1&amp;frasl;3 do período vai ser gasto ensinando a usar NetBeans.
+Apresenta vários dos conceitos de servidores web, demonstra como montar um básico, explora o sistema de threading para possibilitar requests concorrentes e paralelos. Apresenta os protocolos e ensina a usar Tomcat (servidor de java).
+Ensina a integrar com bancos de dados SQL (postgreSQL) e os utilizar em suas aplicações.</description>
+    </item>
+    
+    <item>
+      <title>Sistemas Digitais</title>
+      <link>https://gremio-eci.github.io/wiki/materia/eel480-sistemas-digitais/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/eel480-sistemas-digitais/</guid>
+      <description>Código: EEL480 Créditos: 5 Professor: José Paulo Braffman  Essa matéria é sensacional. É bem dificil, mas é da natureza do conteúdo. Ensina muita coisa, focando nos pilares do hardware (mais da parte digital que eletrônica).
+Chegue na hora e não falte, essa matéria é difícil e se perder uma aula fica confusa, será difícil de correr atrás (dá, mas não torne um costume). É uma das poucas matérias que não da pra ficar faltando (ou chegando atrasado).</description>
+    </item>
+    
+    <item>
+      <title>Teoria dos Grafos</title>
+      <link>https://gremio-eci.github.io/wiki/materia/cos242-teoria-dos-grafos/</link>
+      <pubDate>Wed, 29 Jan 2020 01:29:11 -0300</pubDate>
+      
+      <guid>https://gremio-eci.github.io/wiki/materia/cos242-teoria-dos-grafos/</guid>
+      <description>Código: COS242 Site: https://www.cos.ufrj.br/~daniel/grafos/ Créditos: 4 Professor: Ratton  Essa é uma das matérias mais importantes do curso e o Ratton é um puta professor.
+Ela da um pouco de trabalho, porque o Ratton adora passar dever, e ele fica perguntando tudo pros alunos durante a aula. E por isso mesmo você vai aprender muito nela.
+A aula foca nos pilares de algoritmos para lidar com informação (nosso curso tem Informação no nome, dados meio que são a parada).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="author" content="Grêmio de ECI">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.40.1" />
+    <title>Wiki - Grêmio de ECI</title>
+
+
+    
+    <link rel="stylesheet" href="/wiki/css/style.min.css" type="text/css">
+
+    
+    
+
+    
+
+    
+</head>
+
+
+<body>
+    <div class="navigation-container">
+        <header>
+    <div class="container">
+        <section class="logo-header">
+            <div id="logo-section">
+                <img src="/wiki/logo.png" alt="Logo" />
+                <a href="/wiki">Wiki - Grêmio de ECI </a>
+            </div>
+        </section>
+
+
+        <section class="navigation">
+            <nav class="menu">
+ 
+                <a class="menu-nav-item" href="/wiki/../grade/">Fluxograma da Grade</a> 
+                <a class="menu-nav-item" href="/wiki/../git/">Github de ECI</a> 
+                <a class="menu-nav-item" href="/wiki/../wiki/tutorial/">Tutoriais</a> 
+            </nav>
+        </section>
+
+        <hr class="ui-hr">
+    </div>
+</header>
+
+    </div>
+
+    
+    <div class="container">
+        
+<h2>
+    Contribuindo
+</h2>
+<p>
+    
+    <span class="tags">
+    
+</span>
+
+</p>
+<section class="content">
+    
+
+<p>Essa wiki é colaborativa, de forma que se algo está errado, por favor modifique, e se sinta a vontade para extender artigos e adicionar novos.</p>
+
+<p>É uma wiki estática, gerada a partir do gerador de sites <a href="https://gohugo.io/">Hugo</a>, utilizamos arquivos de sintaxe <a href="https://gremio-eci.github.io/wiki/tutorial/markdown/">Markdown</a> para editar os artigos.</p>
+
+<p>O código fonte (com os conteúdos) se encontra em <a href="https://github.com/gremio-eci/wiki">https://github.com/gremio-eci/wiki</a></p>
+
+<p>Caso seja um aluno de ECI fique basta pedir à algum admin da organização <a href="https://github.com/gremio-eci">Gremio ECI</a> para te adicionar como membro. Se não, faça um fork no github e crie um pull request com as modificações feitas.</p>
+
+<h2 id="fontes-que-podem-ajudar">Fontes que podem ajudar</h2>
+
+<ul>
+<li><a href="https://gremio-eci.github.io/wiki/tutorial/markdown/">Markdown</a></li>
+<li><a href="https://gremio-eci.github.io/wiki/tutorial/git/">Tutorial do Git</a></li>
+<li><a href="https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh">Adicionar chave SSH ao github</a></li>
+<li><a href="https://gohugo.io">Hugo</a></li>
+</ul>
+
+<h2 id="dependências">Dependências</h2>
+
+<ol>
+<li><a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git">git</a> instalado.</li>
+<li><a href="https://gohugo.io/getting-started/installing/">hugo</a> instalado</li>
+</ol>
+
+<p>Se você usa windows pode instalar ambos rodando o script: <code>Installer.ps1</code></p>
+
+<p>Com essas dependências a wiki já pode ser executada localmente e até publicada (se você tem permissão de escrita no repositório).</p>
+
+<p>Git suporta interface gráficas, havendo diversas implementações, fique a vontade para escolher a sua, será necessário apenas converter os comandos do terminal para a GUI.</p>
+
+<h2 id="modo-de-preparo">Modo de Preparo</h2>
+
+<p>Abra o terminal, dele você faz tudo (até editar o markdown se utilizar um editor como o <code>vim</code>)</p>
+
+<h3 id="clonando-o-repositório">Clonando o repositório</h3>
+
+<p><code>git clone git@github.com:gremio-eci/wiki.git</code></p>
+
+<p>Esse endereço é o que utiliza o protocolo <code>SSH</code>, portanto será necessária uma chave SSH autenticada no github para realizar os próximos comandos. O github providencia um tutorial para <a href="https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh">Adicionar chave SSH à sua conta</a>. Se desejado é possível utilizar o protocolo <code>HTTPS</code>, apenas substitua o endereço do clone por <a href="https://github.com/gremio-eci/wiki.git">https://github.com/gremio-eci/wiki.git</a></p>
+
+<p>Uma pasta <code>wiki/</code> será criada e nela o repositório estará clonado.</p>
+
+<p><code>cd wiki</code></p>
+
+<h3 id="modificando-conteúdo">Modificando conteúdo</h3>
+
+<p>Dentro da pasta <code>wiki/</code> haverá uma pasta chamada <code>content/</code>. Nessa pasta ficam os arquivos <a href="https://gremio-eci.github.io/wiki/tutorial/markdown/">Markdown</a>, modifique-os a vontade em seu editor de texto favorito (ou IDE).</p>
+
+<p>Para criar um arquivo novo digite</p>
+
+<p><code>hugo new tutorial/novo-tutorial.md</code></p>
+
+<p>Para o arquivo ir para o ar é necessário alterar em seu header <code>draft: true</code> para <code>draft: false</code>.</p>
+
+<p>O arquivo será criado, se baseie no conteúdo de outros arquivos da pasta. Novas pastas podem ser criadas à vontade.</p>
+
+<p>Arquivos estáticos além do markdown (como imagens e vídeos que não são hosteados externamente) são adicionados na pasta <code>static/</code> da base do repositório. Mas no geral tendemos a utilizar links externos, isso significa que o link um dia pode sair do ar. Mas se for um conteúdo que pode variar pode ser interessante manter a dinamicidade.</p>
+
+<h3 id="testando-as-modificações">Testando as modificações</h3>
+
+<p>É possível testar as modificações localmente enquanto elas são feitas e descobrir se existem erros de compilação ou de formatação.</p>
+
+<p>Por favor as teste antes de publicar as coisas, não de push em <code>master</code> com erros de compilação. Não execute o script de <code>publish</code> sem revisar as modificações feitas localmente.</p>
+
+<p>Linux:</p>
+
+<p><code>./local.sh</code></p>
+
+<p>Windows:</p>
+
+<p>Execute o arquivo <code>Local.ps1</code></p>
+
+<p>Isso abrirá uma aba do browser padrão na wiki local. Ela será atualizada automaticamente caso algum arquivo seja modificado, e avisará no terminal caso existam erros de compilação.</p>
+
+<h3 id="salvando-suas-modificações-git-add-commit-push">Salvando suas modificações (git add, commit, push)</h3>
+
+<p>Git é uma ferramenta de controle de versão, então existe um protocolo para alterar a versão atual no repositório.</p>
+
+<p>Adicione as modificações</p>
+
+<p><code>git status</code></p>
+
+<p>Irá avisar todas as modificações feitas</p>
+
+<p><code>git add {arquivo mostrado no status}</code></p>
+
+<p>Após adicionar todos os arquivos desejados crie o commit:</p>
+
+<p>Se você não configurou o git ainda ele pedirá para definir o nome e e-mail local a ser salvo nos metadados do git</p>
+
+<p><code>git commit</code></p>
+
+<p>Abrirá uma janela para editar texto, escreva de forma concisa as modificações feitas na primeira linha e na terceira linha explique mais detalhadamente.</p>
+
+<p>Suas mensagens devem ser em inglês (os nomes em português podem se manter em português), e devem ser no presente, exemplo &ldquo;Create &hellip;&rdquo;, &ldquo;Fix &hellip;&rdquo;, &ldquo;Merge &hellip;&rdquo;.</p>
+
+<p>Exemplo de mensagem:</p>
+
+<pre><code>Create markdown and contribuindo tutorial
+
+- Created tutorial/contribuindo.md file, with a thorough explanation of how this wiki works, how to run it locally and how to change it
+- Created tutorial/markdown.md with a basic reference to Markdown and more sources
+</code></pre>
+
+<h3 id="verificando-atualizações-git-fetch-merge-pull">Verificando atualizações (git fetch, merge, pull&hellip;)</h3>
+
+<p>Antes de dar push é importante saber se existem modificações feitas por outros, idealmente elas seriam obtidas antes de iniciar as modificações, mas nem sempre isso é possível.</p>
+
+<p>É possível utilizar branches para manter seu código lá sem atrapalhar master, quando ainda está incompleto. Isso evita muita dor de cabeça, se sua modificação for extensa e você quiser commitar por favor crie uma nova branch e a utilize até o merge. Para mais informações cheque o tutorial de <a href="https://gremio-eci.github.io/wiki/tutorial/git/">Git</a></p>
+
+<p><code>git pull origin master</code></p>
+
+<p>Se houver conflito de modificações é necessário os resolver na mão. Existem ferramentas especializadas para merge de git, uma googlada te dá referências.</p>
+
+<p>Se houve conflito e foi resolvido manualmente digite</p>
+
+<p><code>git commit</code></p>
+
+<p>Salve a mensagem da migração.</p>
+
+<h3 id="publicando-no-repositório">Publicando no repositório</h3>
+
+<p>Agora é necessário compartilhar suas modificações pelo git, para que outros editores tenham acesso e possam modificar.</p>
+
+<p>Para isso é necessário ter permissão de escrita no repositório, então se você estuda ECI e não tem nos peça. De qualquer forma você pode fazer um fork seu e modificaro próprio repositório, integrando as coisas por Pull Request do github.</p>
+
+<p><code>git push origin master</code></p>
+
+<p>Se você nunca deu push em nada no github provavelmente será negado, porque não há permissão. Será necessário criar uma chave <code>ssh</code> para o git usar e a cadastrar em sua conta do github.</p>
+
+<p>Para saber mais de criar uma chave ssh use esse tutorial do github: <a href="https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh">https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh</a></p>
+
+<h3 id="publicando-a-wiki-online">Publicando a wiki online</h3>
+
+<p>Após atualizar o repositório com suas modificações, e garantir que elas estão funcionando como desejado no teste local é a hora de publicar a wiki.</p>
+
+<p>Isso só funcionará se você tem permissão de escrita no repositório (apenas pessoas da organização <code>gremio-eci</code> tem).</p>
+
+<p>Linux:</p>
+
+<p><code>./publish.sh</code></p>
+
+<p>Windows:</p>
+
+<p>Execute o arquivo <code>Publish.ps1</code></p>
+
+<h1 id="justificativas">Justificativas</h1>
+
+<p>Nós entendemos que o metodo atual cria uma barreira pra contribuição e pode afastar colaboradores. Mas entendemos também que é necessário reconhecer os recursos disponíveis. Uma wiki que dependa de um servidor externo gera custo e trabalho de manutenção. Cria também a necessidade de um sistema de autenticação e de permissões, quando o github já providencia isso para a gente. E internamente o git provavelmente seria usado de qualquer forma, para permitir recuperações e migrações.</p>
+
+<p>Mesmo um servidor de um laboratório da UFRJ geraria problemas, com a wiki indisponível quando a rede se encontra instável (constantemente). E no passado o nosso curso já teve uma wiki hosteada externamente. Wiki que eventualmente saiu do ar com o desligamento do servidor.</p>
+
+<p>Por isso que compreendemos que ao menos inicialmente é importante criar uma wiki à prova de futuro. Entendemos que muitas informações ficam ultrapassadas logo, mas se exigir um trabalho constante de observação acabará por ser abandonada.</p>
+
+<p>Portanto essa barreira compensa a problemática de um servidor. Estamos trabalhando ao máximo para diminuir a dificuldade de colaboração, mas é bom lembrar que somos alunos de Engenharia da Computação. Se não conseguimos sentar por alguns arquivos de documentação para realizar uma tarefa teremos muitas dificuldades de atuar nessa área, então aproveite agora para criar o costume.</p>
+
+<p>Então calouro, se esse tutorial te intimidar não se assuste, vai com calma que a habilidade mais importante da programação é a paciência de ler documentações (e de fazer as suas rsrs). Qualquer dúvida fique a vontade para procurar os veteranos, sempre terá alguém disponível para te ajudar! Os grupos das redes sociais tem um grande papel nessa integração, mas pessoalmente é sempre bom também.</p>
+
+</section>
+
+    </div>
+    <footer>
+    <div class="container">
+        <p>
+            <span>Última atualização: 2020-06-01 </span>
+        </p>
+    </div>
+</footer>
+</html>
+
+</body>
+
+</html>
