@@ -4,11 +4,13 @@ date: 2020-01-29T18:14:36-03:00
 draft: false
 ---
 
-![Foto do Diego](https://www.del.ufrj.br/portal_memberdata/portraits/diego.dutra)
+![Foto do Diego](https://cos.ufrj.br/uploadfile/imagem_pessoas/DiegoNovaFoto1.jpg)
 
-- Site: https://www.del.ufrj.br/equipe/docentes/diego-dutra
+- Site: https://www.compasso.ufrj.br/home/participantes/diego-leonel-cadette-dutra
 - Email: diegodutra [arroba] ufrj [ponto] br
+- Email PESC: ddutra [arroba] cos [ponto] ufrj [ponto] br
 
 ## Matérias
 
 - [EEL280 - Circuitos Lógicos (5 créditos)]({{< ref "/materia/eel280-circuitos-logicos.md" >}})
+- [EEL580 - Arquitetura de Computadores](https://www.compasso.ufrj.br/disciplinas/eel580)
